@@ -31,18 +31,18 @@
     {
       "id": 1,
       "category":"Bis",
-      "title":"Harapan Jaya",
-      "image":"file:///android_asset/bus.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
+      "title":"Bus Avengers",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bus1/main/Bus%20Avengers.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bus1/raw/main/Bus%20Avengers.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bus1/main/Bus%20Avengers.png"
     },
     {
       "id": 2,
       "category":"Bis",
-      "title":"Livery Zentrum JB2 SHD",
-      "image":"https://aliendro.id/uploads/busid/MOD-BUSSID-JB2-SHD.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
-      "link_livery":"null"
+      "title":"Bus Evolander DOP",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bus1/main/Bus%20Evolander%20DOP.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bus1/raw/main/Bus%20Evolander%20DOP.bussidvehicle",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bus1/main/Bus%20Evolander%20DOP.png"
     },
     {
       "id": 3,
