@@ -270,8 +270,7 @@
       "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Honda%20NSX%20Liberty%20Walk%202023%20Version%20cvt%20Hanzoo%20Mod.jpeg",
       "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Honda%20NSX%20Liberty%20Walk%202023%20Version%20cvt%20Hanzoo%20Mod.bussidmod",
       "link_livery":"null"
-    }
-    ,
+    },
     {
       "id": 31,
       "category":"Mobil",
@@ -351,6 +350,71 @@
       "title":"Motor CBR600RR",
       "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20CBR600RR.jpeg",
       "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20CBR600RR.bussidvehicle",
+      "link_livery":"null"
+    },
+    {
+      "id": 41,
+      "category":"Map",
+      "title":"MOD MAP KOTA MATI ALIYAN GMP",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/MOD%20MAP%20KOTA%20MATI%20BUSSID%20ALIYAN%20GMP.webp",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/MOD%20MAP%20KOTA%20MATI%20ALIYAN%20GMP.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 42,
+      "category":"Map",
+      "title":"Map Bukit Bintang by Amdroid 93 Channel",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Map%20Bukit%20Bintang%20by%20Amdroid%2093%20Channel.webp",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Bukit%20Bintang%20by%20Amdroid%2093%20Channel.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 43,
+      "category":"Map",
+      "title":"Map Ekstrim v3 by Aliyan GMP",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Map%20Ekstrim%20v3%20by%20Aliyan%20GMP.webp",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Ekstrim%20v3%20by%20Aliyan%20GMP.bussidmod",
+      "link_livery":"null"
+    }
+  ,
+    {
+      "id": 44,
+      "category":"Map",
+      "title":"Map Jalur Sibea bea Aliyan-GMP",
+      "image":"https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Jalur%20Sibea%20bea%20Aliyan-GMP.webp",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Jalur%20Sibea%20bea%20Aliyan-GMP.bussidmod",
+      "link_livery":"null"
+    } ,
+    {
+      "id": 45,
+      "category":"Map",
+      "title":"Map Kelok 18 by Aliyan GMP",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Map%20Kelok%2018%20by%20Aliyan%20GMP.webp",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Kelok%2018%20by%20Aliyan%20GMP.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 46,
+      "category":"Map",
+      "title":"Map Tol Trans Jawa V2 by X Play Kembar",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Map%20Tol%20Trans%20Jawa%20V2%20by%20X%20Play%20Kembar.webp",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Tol%20Trans%20Jawa%20V2%20by%20X%20Play%20Kembar.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 47,
+      "category":"Map",
+      "title":"Sitinjau Lauik Atas",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Sitinjau%20Lauik.webp",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Sitinjau%20Lauik%20Atas.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 48,
+      "category":"Map",
+      "title":"Sitinjau Lauik Bawah",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Sitinjau%20Lauik.webp",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Sitinjau%20Lauik%20Bawah.bussidmod",
       "link_livery":"null"
     }
   ]
