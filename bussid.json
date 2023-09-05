@@ -108,6 +108,87 @@
       "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/JB3%20Hino%20Diva%20Jaya%20Trans.jpeg",
       "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/JB3%20Hino%20Diva%20Jaya%20Trans.bussidmod",
       "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/JB3%20Hino%20Diva%20Jaya%20Trans.png"
+    },
+    {
+      "id": 11,
+      "category":"Truk",
+      "title":"Dump Truck Muatan Sawit",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Dump%20Truck%20Muatan%20Sawit.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Dump%20Truck%20Muatan%20Sawit.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 12,
+      "category":"Truk",
+      "title":"E One Titan Force 6x6 by constantine",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/E%20One%20Titan%20Force%206x6%20by%20constantine.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/E%20One%20Titan%20Force%206x6%20by%20constantine.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 13,
+      "category":"Truk",
+      "title":"Fuso Super Great Dump Truck by 41aeimis",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Fuso%20Super%20Great%20Dump%20Truck%20by%2041aeimis.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Fuso%20Super%20Great%20Dump%20Truck%20by%2041aeimis.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Fuso%20Super%20Great%20Dump%20Truck%20by%2041aeimis.png"
+    }
+  ,
+    {
+      "id": 14,
+      "category":"Truk",
+      "title":"Hino Lohan Self Loader",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Hino%20Lohan%20Self%20Loader.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Hino-Lohan-Self-Loader.bussidmod",
+      "link_livery":"null"
+    } ,
+    {
+      "id": 15,
+      "category":"Truk",
+      "title":"Iveco Stralis NR 4X2 Overload Trailers",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Iveco%20Stralis%20NR%204X2%20Overload%20Trailers.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Iveco%20Stralis%20NR%204X2%20Overload%20Trailers.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 16,
+      "category":"Truk",
+      "title":"JCB Fastrac 3230",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/JCB%20Fastrac%203230.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/JCB%20Fastrac%203230.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 17,
+      "category":"Truk",
+      "title":"Kamaz Master 4911",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Kamaz%20Master%204911.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Kamaz%20Master%204911.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 18,
+      "category":"Truk",
+      "title":"MAN TGA Energrom Edition by gonzalezvla",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/MAN%20TGA%20Energrom%20Edition%20by%20gonzalezvla.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/MAN%20TGA%20Energrom%20Edition%20by%20gonzalezvla.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 19,
+      "category":"Truk",
+      "title":"MAN TGS 18.320 Truk Sampah",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/MAN%20TGS%2018.320%20Truk%20Sampah.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/MAN%20TGS%2018.320%20Truk%20Sampah.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 20,
+      "category":"Truk",
+      "title":"Mercedes Benz Arocs SLT 4163 8x4 Euro 6 Evergreen",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Mercedes%20Benz%20Arocs%20SLT%204163%208x4%20Euro%206%20Evergreen.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Mercedes%20Benz%20Arocs%20SLT%204163%208x4%20Euro%206%20Evergreen.bussidmod",
+      "link_livery":"null"
     }
   ]
 }
