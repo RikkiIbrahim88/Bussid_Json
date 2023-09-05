@@ -416,6 +416,87 @@
       "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Sitinjau%20Lauik.webp",
       "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Sitinjau%20Lauik%20Bawah.bussidmod",
       "link_livery":"null"
+    },
+    {
+      "id": 49,
+      "category":"Bis",
+      "title":"JB3 SHD Facelift Voyager Agra Tronton MD",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/JB3%20SHD%20Facelift%20Voyager%20Agra%20Tronton%20MD.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/JB3%20SHD%20Facelift%20Voyager%20Agra%20Tronton%20MD.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/JB3%20SHD%20Facelift%20Voyager%20Agra%20Tronton%20MD.png"
+    },
+    {
+      "id": 50,
+      "category":"Bis",
+      "title":"MAN Lions Coach FIFA World Cup Qatar 2022",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/MAN%20Lions%20Coach%20FIFA%20World%20Cup%20Qatar%202022.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/MAN%20Lions%20Coach%20FIFA%20World%20Cup%20Qatar%202022.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 51,
+      "category":"Bis",
+      "title":"MEDAL SEKARWANGI METROMINI",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/MEDAL%20SEKARWANGI%20METROMINI.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/MEDAL%20SEKARWANGI%20METROMINI.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/MEDAL%20SEKARWANGI%20METROMINI.png"
+    },
+    {
+      "id": 52,
+      "category":"Bis",
+      "title":"Metromini",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Metromini.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Metromini.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 53,
+      "category":"Bis",
+      "title":"Nucleus Berkarat",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Nucleus%20Berkarat.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Nucleus%20Berkarat.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Nucleus%20Berkarat.png"
+    }
+  ,
+    {
+      "id": 54,
+      "category":"Bis",
+      "title":"Pandawa 87 MU JB3 Tronton",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Pandawa%2087%20MU%20JB3%20Tronton.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Pandawa%2087%20MU%20JB3%20Tronton.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Pandawa%2087%20MU%20JB3%20Tronton.png"
+    } ,
+    {
+      "id": 55,
+      "category":"Bis",
+      "title":"SR2 XHD ECE R66 Putra Jaya Trans",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/SR2%20XHD%20ECE%20R66%20Putra%20Jaya%20Trans.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/SR2%20XHD%20ECE%20R66%20Putra%20Jaya%20Trans.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/SR2%20XHD%20ECE%20R66%20Putra%20Jaya%20Trans.png"
+    },
+    {
+      "id": 56,
+      "category":"Bis",
+      "title":"Scania Touring MAH Channel",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Scania%20Touring%20MAHChannel.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Scania%20Touring%20MAH%20Channel.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 57,
+      "category":"Bis",
+      "title":"Tividi Aulia Reborn JB3 Hino",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Tividi%20Aulia%20Reborn%20JB3%20Hino.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Tividi%20Aulia%20Reborn%20JB3%20Hino.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Tividi%20Aulia%20Reborn%20JB3%20Hino.png"
+    },
+    {
+      "id": 58,
+      "category":"Bis",
+      "title":"Travego Smile",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Travego%20Smile.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Travego%20Smile.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Travego%20Smile.png"
     }
   ]
 }
