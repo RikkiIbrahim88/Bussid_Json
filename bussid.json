@@ -41,16 +41,16 @@
       "category":"Bis",
       "title":"Bus Evolander DOP",
       "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bus1/main/Bus%20Evolander%20DOP.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
-      "link_livery":"null"
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20Evolander%20DOP.bussidvehicle",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Evolander%20DOP.png"
     },
     {
       "id": 3,
       "category":"Bis",
-      "title":"Bus Telolet",
-      "image":"file:///android_asset/bus3.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
-      "link_livery":"null"
+      "title":"Bus Harapan Baru Jetbus 3",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Harapan%20Baru%20Jetbus%203.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20Harapan%20Baru%20Jetbus%203.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Harapan%20Baru%20Jetbus%203.png"
     }
   ,
     {
