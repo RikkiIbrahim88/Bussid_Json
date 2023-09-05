@@ -71,11 +71,43 @@
     },
     {
       "id": 6,
-      "category":"Truk",
-      "title":"Truck Oleng",
-      "image":"file:///android_asset/truck.webp",
-      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
+      "category":"Bis",
+      "title":"Bus PO Haryanto Racing",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20PO%20Haryanto%20Racing.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20PO%20Haryanto%20Racing.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20PO%20Haryanto%20Racing.png"
+    },
+    {
+      "id": 7,
+      "category":"Bis",
+      "title":"Bus Sinar Dempo JB3 Scania",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Sinar%20Dempo%20JB3%20Scania.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20Sinar%20Dempo%20JB3%20Scania.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Sinar%20Dempo%20JB3%20Scania.png"
+    },
+    {
+      "id": 8,
+      "category":"Bis",
+      "title":"Bus Tunggal Jaya",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Tunggal%20Jaya.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20Tunggal%20Jaya.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Tunggal%20Jaya.png"
+    },
+    {
+      "id": 9,
+      "category":"Bis",
+      "title":"Bus Tunggal jaya Green Earth Full Anim",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Tunggal%20jaya%20Green%20Earth%20Full%20Anim.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20Tunggal%20jaya%20Green%20Earth%20Full%20Anim.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Tunggal%20jaya%20Green%20Earth%20Full%20Anim.png"
+    },
+    {
+      "id": 10,
+      "category":"Bis",
+      "title":"JB3 Hino Diva Jaya Trans.bussidmod",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/JB3%20Hino%20Diva%20Jaya%20Trans.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/JB3%20Hino%20Diva%20Jaya%20Trans.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/JB3%20Hino%20Diva%20Jaya%20Trans.png"
     }
   ]
 }
