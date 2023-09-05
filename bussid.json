@@ -497,6 +497,87 @@
       "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Travego%20Smile.jpeg",
       "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Travego%20Smile.bussidmod",
       "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Travego%20Smile.png"
+    },
+    {
+      "id": 59,
+      "category":"Truk",
+      "title":"Mercedes Benz Arocs SLT 4163 8x4 Euro 6",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Mercedes%20Benz%20Arocs%20SLT%204163%208x4%20Euro%206.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Mercedes%20Benz%20Arocs%20SLT%204163%208x4%20Euro%206.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 60,
+      "category":"Truk",
+      "title":"New Tawakal 3",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/New%20Tawakal%203.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/New%20Tawakal%203.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 61,
+      "category":"Truk",
+      "title":"Renault Premium 450 6x4 1",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Renault%20Premium%20450%206x4%201.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Renault%20Premium%20450%206x4%201.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 62,
+      "category":"Truk",
+      "title":"Truck Fuso The Great full Anim",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truck%20Fuso%20The%20Great%20full%20Anim.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Truck%20Fuso%20The%20Great%20full%20Anim.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truck%20Fuso%20The%20Great%20full%20Anim.png"
+    },
+    {
+      "id": 63,
+      "category":"Truk",
+      "title":"Truck Isuzu Giga Bos Galak",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truck%20Isuzu%20Giga%20Bos%20Galak.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Truck%20Isuzu%20Giga%20Bos%20Galak.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truck%20Isuzu%20Giga%20Bos%20Galak.png"
+    }
+  ,
+    {
+      "id": 64,
+      "category":"Truk",
+      "title":"Truck Tanki CPO Final Full Anim",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truck%20Tanki%20CPO%20Final%20Full%20Anim.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Truck%20Tanki%20CPO%20Final%20Full%20Anim.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truck%20Tanki%20CPO%20Final%20Full%20Anim.png"
+    } ,
+    {
+      "id": 65,
+      "category":"Truk",
+      "title":"Truck Trailer Muatan Kendaraan Berat",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truck%20Trailer%20Muatan%20Kendaraan%20Berat.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Truck%20Trailer%20Muatan%20Kendaraan%20Berat.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 66,
+      "category":"Truk",
+      "title":"Truk Ford F Max Trailer",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truk%20Ford%20F%20Max%20Trailer.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Truk%20Ford%20F%20Max%20Trailer.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 67,
+      "category":"Truk",
+      "title":"Volvo FH460 EURO 6 by zm garageETS2gonzalezvla",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Volvo%20FH460%20EURO%206%20by%20zm%20garageETS2gonzalezvla.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Volvo%20FH460%20EURO%206%20by%20zm%20garageETS2gonzalezvla.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 68,
+      "category":"Truk",
+      "title":"Western Star 5700 XE",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Western%20Star%205700%20XE.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Western%20Star%205700%20XE.bussidmod",
+      "link_livery":"null"
     }
   ]
 }
