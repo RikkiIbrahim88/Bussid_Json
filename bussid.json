@@ -271,5 +271,87 @@
       "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Honda%20NSX%20Liberty%20Walk%202023%20Version%20cvt%20Hanzoo%20Mod.bussidmod",
       "link_livery":"null"
     }
+    ,
+    {
+      "id": 31,
+      "category":"Mobil",
+      "title":"BMW CSL 3.0 Hommage R",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/BMW%20CSL%203.0%20Hommage%20R.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/BMW%20CSL%203.0%20Hommage%20R.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 32,
+      "category":"Motor",
+      "title":"BMW R1200 GS",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/BMW%20R1200%20GS.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/BMW%20R1200%20GS.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 33,
+      "category":"Motor",
+      "title":"CBR 300R TERBARU MAH Channel",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/CBR%20300R%20TERBARU%20MAH%20Channel.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/CBR%20300R%20TERBARU%20MAH%20Channel.bussidmod",
+      "link_livery":"null"
+    }
+  ,
+    {
+      "id": 34,
+      "category":"Motor",
+      "title":"Chevrolet Colorado ZR2 MAH Channel",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Chevrolet%20Colorado%20ZR2%20MAH%20Channel.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Chevrolet%20Colorado%20ZR2%20MAH%20Channel.bussidmod",
+      "link_livery":"null"
+    } ,
+    {
+      "id": 35,
+      "category":"Motor",
+      "title":"Ducati Monster 1200 S cvt MAH Channel",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Ducati%20Monster%201200%20S%20cvt%20MAH%20Channel.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Ducati%20Monster%201200%20S%20cvt%20MAH%20Channel.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 36,
+      "category":"Motor",
+      "title":"Ducati Monster 1200 S cvt",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Ducati%20Monster%201200%20S%20cvt.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Ducati%20Monster%201200%20S%20cvt.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 37,
+      "category":"Motor",
+      "title":"Kawasaki Ninja ZX25 R",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Kawasaki%20Ninja%20ZX25%20R.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Kawasaki%20Ninja%20ZX25%20R.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 38,
+      "category":"Motor",
+      "title":"MOTOR BMW S 1000 RR Asphalt 8 cvt MAH Channel",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/MOTOR%20BMW%20S%201000%20RR%20Asphalt%208%20cvt%20MAH%20Channel.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/MOTOR%20BMW%20S%201000%20RR%20Asphalt%208%20cvt%20MAH%20Channel.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 39,
+      "category":"Motor",
+      "title":"Motor CBR150r Knalpot Racing",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20CBR150r%20Knalpot%20Racing.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20CBR150r%20Knalpot%20Racing.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 40,
+      "category":"Motor",
+      "title":"Motor CBR600RR",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20CBR600RR.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20CBR600RR.bussidvehicle",
+      "link_livery":"null"
+    }
   ]
 }
