@@ -55,19 +55,19 @@
   ,
     {
       "id": 4,
-      "category":"Truk",
-      "title":"Truck UD Quester Bak Muat Kayu",
-      "image":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
+      "category":"Bis",
+      "title":"Bus JRG K410 SG",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20JRG%20K410%20SG.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20JRG%20K410%20SG.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20JRG%20K410%20SG.png"
     } ,
     {
       "id": 5,
-      "category":"Mobil",
-      "title":"Jaguar XE SV Project 8",
-      "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
-      "link_livery":"null"
+      "category":"Bis",
+      "title":"Bus NPM Sultan Class black Scania K360",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20NPM%20Sultan%20Class%20black%20Scania%20K360.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20NPM%20Sultan%20Class%20black%20Scania%20K360.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20NPM%20Sultan%20Class%20black%20Scania%20K360.png"
     },
     {
       "id": 6,
