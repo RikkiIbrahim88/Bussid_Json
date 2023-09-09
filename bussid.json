@@ -8,8 +8,8 @@
 			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
 			"main_ads_rewards": "ca-app-pub-3940256099942544/5224354917",
 			"backup_ads_natives": "",
-			"backup_ads_banner": "",
-			"backup_ads_intertitial": "",
+			"backup_ads_banner": "db4d5e8718b97d78",
+			"backup_ads_intertitial": "518cd97722c60b52",
 			"backup_ads_rewards": "",
 			"open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
 			"open_ads_alien": "",
@@ -1025,6 +1025,190 @@
 			"title": "Truk Kontes",
 			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Truk%20Kontes.jpeg",
 			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/Truk%20Kontes.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 126,
+			"category": "Mobil",
+			"title": "2021 VW Golf GTI MAH Channel",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/2021%20VW%20Golf%20GTI%20MAH%20Channel.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/2021%20VW%20Golf%20GTI%20MAH%20Channel.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 127,
+			"category": "Mobil",
+			"title": "Audi R8 Spyder 5.2 V10 Plus LB Walk",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/Audi%20R8%20Spyder%205.2%20V10%20Plus%20LB%20Walk.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/Audi%20R8%20Spyder%205.2%20V10%20Plus%20LB%20Walk.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 128,
+			"category": "Mobil",
+			"title": "Aurus Senat S600 2018",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/Aurus%20Senat%20S600%202018.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/Aurus%20Senat%20S600%202018.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 129,
+			"category": "Mobil",
+			"title": "BMW M4 G82 M Performance 2021cvt MAH Channel",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/BMW%20M4%20G82%20M%20Performance%202021cvt%20MAH%20Channel.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/BMW%20M4%20G82%20M%20Performance%202021cvt%20MAH%20Channel.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 130,
+			"category": "Mobil",
+			"title": "BMW M760Li 2022",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/BMW%20M760Li%202022.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/BMW%20M760Li%202022.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 131,
+			"category": "Mobil",
+			"title": "Bugatti Chiron 2023 Full Speed",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/Bugatti%20Chiron%202023%20Full%20Speed.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/Bugatti%20Chiron%202023%20Full%20Speed.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 132,
+			"category": "Mobil",
+			"title": "Dodge Charger RT Fast X",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/Dodge%20Charger%20RT%20Fast%20X.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/Dodge%20Charger%20RT%20Fast%20X.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 133,
+			"category": "Mobil",
+			"title": "Dodge RAM 1500 Rebel TRX Concept",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/Dodge%20RAM%201500%20Rebel%20TRX%20Concept.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/Dodge%20RAM%201500%20Rebel%20TRX%20Concept.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 134,
+			"category": "Mobil",
+			"title": "GTA V HVY Dock Handler",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/GTA%20V%20HVY%20Dock%20Handler.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/GTA%20V%20HVY%20Dock%20Handler.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 135,
+			"category": "Mobil",
+			"title": "Honda Civic Type R",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/Honda%20Civic%20Type%20R.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/Honda%20Civic%20Type%20R.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 136,
+			"category": "Mobil",
+			"title": "Honda Fit Street Modifications cvt Hanzoo Mod",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/Honda%20Fit%20Street%20Modifications%20cvt%20Hanzoo%20Mod.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/Honda%20Fit%20Street%20Modifications%20cvt%20Hanzoo%20Mod.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 137,
+			"category": "Mobil",
+			"title": "Hummer H2 The HumROD",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/Hummer%20H2%20The%20HumROD.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/Hummer%20H2%20The%20HumROD.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 138,
+			"category": "Mobil",
+			"title": "Hyundai HB20",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/Hyundai%20HB20.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/Hyundai%20HB20.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 139,
+			"category": "Mobil",
+			"title": "Jeep Grand Cherokee SRT WK2",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/Jeep%20Grand%20Cherokee%20SRT%20WK2.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/Jeep%20Grand%20Cherokee%20SRT%20WK2.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 140,
+			"category": "Mobil",
+			"title": "Kia Sportage 2017 1",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/Kia%20Sportage%202017%201.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/Kia%20Sportage%202017%201.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 141,
+			"category": "Mobil",
+			"title": "Mercedes Benz Vision Tokyo Concept",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/Mercedes%20Benz%20Vision%20Tokyo%20Concept.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/Mercedes%20Benz%20Vision%20Tokyo%20Concept.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 142,
+			"category": "Mobil",
+			"title": "Mercedes Maybach S650",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/Mercedes%20Maybach%20S650.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/Mercedes%20Maybach%20S650.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 143,
+			"category": "Mobil",
+			"title": "Monster Bulldozer Monster Jam",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/Monster%20Bulldozer%20Monster%20Jam.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/Monster%20Bulldozer%20Monster%20Jam.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 144,
+			"category": "Mobil",
+			"title": "New Lamborghini Aventador SVJ",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/New%20Lamborghini%20Aventador%20SVJ.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/New%20Lamborghini%20Aventador%20SVJ.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 145,
+			"category": "Mobil",
+			"title": "Porsche Boxter S Version 2023",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/Porsche%20Boxter%20S%20Version%202023.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/Porsche%20Boxter%20S%20Version%202023.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 146,
+			"category": "Mobil",
+			"title": "Range Rover Bowler Nemesis",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/Range%20Rover%20Bowler%20Nemesis.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/Range%20Rover%20Bowler%20Nemesis.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 147,
+			"category": "Mobil",
+			"title": "Subaru BRZ Rocket Bunny Engine Ferrari",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/Subaru%20BRZ%20Rocket%20Bunny%20Engine%20Ferrari.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/Subaru%20BRZ%20Rocket%20Bunny%20Engine%20Ferrari.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 148,
+			"category": "Mobil",
+			"title": "Toyota Camry XV 55 2023 ABS",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/Toyota%20Camry%20XV%2055%202023%20ABS.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/Toyota%20Camry%20XV%2055%202023%20ABS.bussidmod",
 			"link_livery": "null"
 		}
 	]
