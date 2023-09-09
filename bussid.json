@@ -850,6 +850,62 @@
 			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Volvo%209800%204x2%20cvt%20Hanzoo%20Mod.jpeg",
 			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis2/raw/main/Volvo%209800%204x2%20cvt%20Hanzoo%20Mod.bussidmod",
 			"link_livery": "null"
+		},
+		{
+			"id": 104,
+			"category": "Truk",
+			"title": "Fire Truck Ural Next",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Fire%20Truck%20Ural%20Next.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/Fire%20Truck%20Ural%20Next.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 105,
+			"category": "Truk",
+			"title": "Iveco Hi way Cooler box",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Iveco%20Hi%20way%20Cooler%20box.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/Iveco%20Hi%20way%20Cooler%20box.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 106,
+			"category": "Truk",
+			"title": "Liebherr LTM 1300 6.2 Crane by gonzalezvla",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Liebherr%20LTM%201300%206.2%20Crane%20by%20gonzalezvla.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/Liebherr%20LTM%201300%206.2%20Crane%20by%20gonzalezvla.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 107,
+			"category": "Truk",
+			"title": "MAN TGS 18.480 4x4 1",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/MAN%20TGS%2018.480%204x4%201.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/MAN%20TGS%2018.480%204x4%201.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 108,
+			"category": "Truk",
+			"title": "MAN TGS 8x4 Dumper cvt MAH Channel",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/MAN%20TGS%208x4%20Dumper%20cvt%20MAH%20Channel.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/MAN%20TGS%208x4%20Dumper%20cvt%20MAH%20Channel.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 109,
+			"category": "Truk",
+			"title": "Mercedes Benz Actros 1863 1",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Mercedes%20Benz%20Actros%201863%201.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/Mercedes%20Benz%20Actros%201863%201.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 110,
+			"category": "Truk",
+			"title": "Mercedes Benz NG 1632 Trailer",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Mercedes%20Benz%20NG%201632%20Trailer.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/Mercedes%20Benz%20NG%201632%20Trailer.bussidmod",
+			"link_livery": "null"
 		}
 	]
 }
