@@ -1210,6 +1210,166 @@
 			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil2/main/Toyota%20Camry%20XV%2055%202023%20ABS.jpeg",
 			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil2/raw/main/Toyota%20Camry%20XV%2055%202023%20ABS.bussidmod",
 			"link_livery": "null"
+		},
+		{
+			"id": 149,
+			"category": "Motor",
+			"title": "Motor Honda Astrea Legenda",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor2/main/Motor%20Honda%20Astrea%20Legenda.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor2/raw/main/Motor%20Honda%20Astrea%20Legenda.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 150,
+			"category": "Motor",
+			"title": "Motor Honda Beat Gojek",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor2/main/Motor%20Honda%20Beat%20Gojek.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor2/raw/main/Motor%20Honda%20Beat%20Gojek.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 151,
+			"category": "Motor",
+			"title": "Motor Honda C70",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor2/main/Motor%20Honda%20C70.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor2/raw/main/Motor%20Honda%20C70.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor2/main/Motor%20Honda%20C70.jpg"
+		},
+		{
+			"id": 152,
+			"category": "Motor",
+			"title": "Motor Honda CBR 150R 1",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor2/main/Motor%20Honda%20CBR%20150R%201.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor2/raw/main/Motor%20Honda%20CBR%20150R%201.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 153,
+			"category": "Motor",
+			"title": "Motor Honda CRF",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor2/main/Motor%20Honda%20CRF.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor2/raw/main/Motor%20Honda%20CRF.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 154,
+			"category": "Motor",
+			"title": "Motor Honda PCX",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor2/main/Motor%20Honda%20PCX.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor2/raw/main/Motor%20Honda%20PCX.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 155,
+			"category": "Motor",
+			"title": "Motor Honda Supra X 125",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor2/main/Motor%20Honda%20Supra%20X%20125.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor2/raw/main/Motor%20Honda%20Supra%20X%20125.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 156,
+			"category": "Motor",
+			"title": "Motor Kawasaki KLX 1",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor2/main/Motor%20Kawasaki%20KLX%201.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor2/raw/main/Motor%20Kawasaki%20KLX%201.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 157,
+			"category": "Motor",
+			"title": "Motor Kawasaki Ninja 150RR Drag 2",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor2/main/Motor%20Kawasaki%20Ninja%20150RR%20Drag%202.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor2/raw/main/Motor%20Kawasaki%20Ninja%20150RR%20Drag%202.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 158,
+			"category": "Motor",
+			"title": "Motor Kawasaki Ninja 150RR Drag",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor2/main/Motor%20Kawasaki%20Ninja%20150RR%20Drag.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor2/raw/main/Motor%20Kawasaki%20Ninja%20150RR%20Drag.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 159,
+			"category": "Motor",
+			"title": "Motor Kawasaki Z800 1",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor2/main/Motor%20Kawasaki%20Z800%201.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor2/raw/main/Motor%20Kawasaki%20Z800%201.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 160,
+			"category": "Motor",
+			"title": "Motor Ninja H2R",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor2/main/Motor%20Ninja%20H2R.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor2/raw/main/Motor%20Ninja%20H2R.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 161,
+			"category": "Motor",
+			"title": "Motor Suzuki Satria FU Drag",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor2/main/Motor%20Suzuki%20Satria%20FU%20Drag.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor2/raw/main/Motor%20Suzuki%20Satria%20FU%20Drag.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 162,
+			"category": "Motor",
+			"title": "Motor Vespa Matic 1",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor2/main/Motor%20Vespa%20Matic%201.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor2/raw/main/Motor%20Vespa%20Matic%201.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 163,
+			"category": "Motor",
+			"title": "Motor Viar Bak Terbuka",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor2/main/Motor%20Viar%20Bak%20Terbuka.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor2/raw/main/Motor%20Viar%20Bak%20Terbuka.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 164,
+			"category": "Motor",
+			"title": "Motor Yamaha Aerox 155cc",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor2/main/Motor%20Yamaha%20Aerox%20155cc.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor2/raw/main/Motor%20Yamaha%20Aerox%20155cc.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 165,
+			"category": "Motor",
+			"title": "Motor Yamaha Mio Drag Racing 200cc",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor2/main/Motor%20Yamaha%20Mio%20Drag%20Racing%20200cc.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor2/raw/main/Motor%20Yamaha%20Mio%20Drag%20Racing%20200cc.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 166,
+			"category": "Motor",
+			"title": "Motor Yamaha R1M",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor2/main/Motor%20Yamaha%20R1M.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor2/raw/main/Motor%20Yamaha%20R1M.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 167,
+			"category": "Motor",
+			"title": "Motor Yamaha YZF R15 155cc",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor2/main/Motor%20Yamaha%20YZF%20R15%20155cc.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor2/raw/main/Motor%20Yamaha%20YZF%20R15%20155cc.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 168,
+			"category": "Motor",
+			"title": "Motor Yamaha YZR Valentino Rossi 1",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor2/main/Motor%20Yamaha%20YZR%20Valentino%20Rossi%201.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor2/raw/main/Motor%20Yamaha%20YZR%20Valentino%20Rossi%201.bussidmod",
+			"link_livery": "null"
 		}
 	]
 }
