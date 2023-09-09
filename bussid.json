@@ -906,6 +906,126 @@
 			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Mercedes%20Benz%20NG%201632%20Trailer.jpeg",
 			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/Mercedes%20Benz%20NG%201632%20Trailer.bussidmod",
 			"link_livery": "null"
+		},
+		{
+			"id": 111,
+			"category": "Truk",
+			"title": "Mercedes benz Actros 1840",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Mercedes%20benz%20Actros%201840.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/Mercedes%20benz%20Actros%201840.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 112,
+			"category": "Truk",
+			"title": "Scania R580",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Scania%20R580.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/Scania%20R580.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 113,
+			"category": "Truk",
+			"title": "Truck Canter Custom 12 by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Truck%20Canter%20Custom%2012%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/Truck%20Canter%20Custom%2012%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Truck%20Canter%20Custom%2012%20by%20Budesign.png"
+		},
+		{
+			"id": 114,
+			"category": "Truk",
+			"title": "Truck Canter Custom 13 Varian Rak Stainless by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Truck%20Canter%20Custom%2013%20Varian%20Rak%20Stainless%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/Truck%20Canter%20Custom%2013%20Varian%20Rak%20Stainless%20by%20Budesign.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 115,
+			"category": "Truk",
+			"title": "Truck Canter Custom 13 Varian Topi by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Truck%20Canter%20Custom%2013%20Varian%20Topi%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/Truck%20Canter%20Custom%2013%20Varian%20Topi%20by%20Budesign.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 116,
+			"category": "Truk",
+			"title": "Truck Canter Herex Stainless by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Truck%20Canter%20Herex%20Stainless%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/Truck%20Canter%20Herex%20Stainless%20by%20Budesign.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 117,
+			"category": "Truk",
+			"title": "Truck Canter Varian Sinden Gosip",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Truck%20Canter%20Varian%20Sinden%20Gosip.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/Truck%20Canter%20Varian%20Sinden%20Gosip.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Truck%20Canter%20Varian%20Sinden%20Gosip.png"
+		},
+		{
+			"id": 118,
+			"category": "Truk",
+			"title": "Truck Isuzu NKR Pasiran by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Truck%20Isuzu%20NKR%20Pasiran%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/Truck%20Isuzu%20NKR%20Pasiran%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Truck%20Isuzu%20NKR%20Pasiran%20by%20Budesign.png"
+		},
+		{
+			"id": 119,
+			"category": "Truk",
+			"title": "Truck MERCY NG917",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Truck%20MERCY%20NG917.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/Truck%20MERCY%20NG917.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 120,
+			"category": "Truk",
+			"title": "Truck NKR 71 Custom V1 Mbois By Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Truck%20NKR%2071%20Custom%20V1%20Mbois%20By%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/Truck%20NKR%2071%20Custom%20V1%20Mbois%20By%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Truck%20NKR%2071%20Custom%20V1%20Mbois%20By%20Budesign.png"
+		},
+		{
+			"id": 121,
+			"category": "Truk",
+			"title": "Truck NMR71 Engkel 01 by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Truck%20NMR71%20Engkel%2001%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/Truck%20NMR71%20Engkel%2001%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Truck%20NMR71%20Engkel%2001%20by%20Budesign.png"
+		},
+		{
+			"id": 122,
+			"category": "Truk",
+			"title": "Truck Peterbilt 385 Cattle Cage Trailer",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Truck%20Peterbilt%20385%20Cattle%20Cage%20Trailer.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/Truck%20Peterbilt%20385%20Cattle%20Cage%20Trailer.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 123,
+			"category": "Truk",
+			"title": "Truck Ragasa V4 by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Truck%20Ragasa%20V4%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/Truck%20Ragasa%20V4%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Truck%20Ragasa%20V4%20by%20Budesign.png"
+		},
+		{
+			"id": 124,
+			"category": "Truk",
+			"title": "Truck Westren Star 5700 XE Overweight Trailer",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Truck%20Westren%20Star%205700%20XE%20Overweight%20Trailer.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/Truck%20Westren%20Star%205700%20XE%20Overweight%20Trailer.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 125,
+			"category": "Truk",
+			"title": "Truk Kontes",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck2/main/Truk%20Kontes.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck2/raw/main/Truk%20Kontes.bussidmod",
+			"link_livery": "null"
 		}
 	]
 }
