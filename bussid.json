@@ -1,745 +1,855 @@
 {
-  "Ads": [
-    {
-      "select_main_ads": "",
-      "select_backup_ads":"",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
-      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
-      "open_ads_alien":"",
-      "open_ads_max" :"",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-    }
-  ],
-   "DATA":
-  [
-    {
-      "id": 1,
-      "category":"Bis",
-      "title":"Bus Avengers",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Avengers.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20Avengers.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Avengers.png"
-    },
-    {
-      "id": 2,
-      "category":"Bis",
-      "title":"Bus Evolander DOP",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Evolander%20DOP.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20Evolander%20DOP.bussidvehicle",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Evolander%20DOP.png"
-    },
-    {
-      "id": 3,
-      "category":"Bis",
-      "title":"Bus Harapan Baru Jetbus 3",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Harapan%20Baru%20Jetbus%203.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20Harapan%20Baru%20Jetbus%203.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Harapan%20Baru%20Jetbus%203.png"
-    }
-  ,
-    {
-      "id": 4,
-      "category":"Bis",
-      "title":"Bus JRG K410 SG",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20JRG%20K410%20SG.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20JRG%20K410%20SG.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20JRG%20K410%20SG.png"
-    } ,
-    {
-      "id": 5,
-      "category":"Bis",
-      "title":"Bus NPM Sultan Class black Scania K360",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20NPM%20Sultan%20Class%20black%20Scania%20K360.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20NPM%20Sultan%20Class%20black%20Scania%20K360.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20NPM%20Sultan%20Class%20black%20Scania%20K360.png"
-    },
-    {
-      "id": 6,
-      "category":"Bis",
-      "title":"Bus PO Haryanto Racing",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20PO%20Haryanto%20Racing.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20PO%20Haryanto%20Racing.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20PO%20Haryanto%20Racing.png"
-    },
-    {
-      "id": 7,
-      "category":"Bis",
-      "title":"Bus Sinar Dempo JB3 Scania",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Sinar%20Dempo%20JB3%20Scania.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20Sinar%20Dempo%20JB3%20Scania.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Sinar%20Dempo%20JB3%20Scania.png"
-    },
-    {
-      "id": 8,
-      "category":"Bis",
-      "title":"Bus Tunggal Jaya",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Tunggal%20Jaya.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20Tunggal%20Jaya.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Tunggal%20Jaya.png"
-    },
-    {
-      "id": 9,
-      "category":"Bis",
-      "title":"Bus Tunggal jaya Green Earth Full Anim",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Tunggal%20jaya%20Green%20Earth%20Full%20Anim.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20Tunggal%20jaya%20Green%20Earth%20Full%20Anim.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Tunggal%20jaya%20Green%20Earth%20Full%20Anim.png"
-    },
-    {
-      "id": 10,
-      "category":"Bis",
-      "title":"JB3 Hino Diva Jaya Trans.bussidmod",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/JB3%20Hino%20Diva%20Jaya%20Trans.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/JB3%20Hino%20Diva%20Jaya%20Trans.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/JB3%20Hino%20Diva%20Jaya%20Trans.png"
-    },
-    {
-      "id": 11,
-      "category":"Truk",
-      "title":"Dump Truck Muatan Sawit",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Dump%20Truck%20Muatan%20Sawit.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Dump%20Truck%20Muatan%20Sawit.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 12,
-      "category":"Truk",
-      "title":"E One Titan Force 6x6 by constantine",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/E%20One%20Titan%20Force%206x6%20by%20constantine.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/E%20One%20Titan%20Force%206x6%20by%20constantine.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 13,
-      "category":"Truk",
-      "title":"Fuso Super Great Dump Truck by 41aeimis",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Fuso%20Super%20Great%20Dump%20Truck%20by%2041aeimis.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Fuso%20Super%20Great%20Dump%20Truck%20by%2041aeimis.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Fuso%20Super%20Great%20Dump%20Truck%20by%2041aeimis.png"
-    }
-  ,
-    {
-      "id": 14,
-      "category":"Truk",
-      "title":"Hino Lohan Self Loader",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Hino%20Lohan%20Self%20Loader.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Hino-Lohan-Self-Loader.bussidmod",
-      "link_livery":"null"
-    } ,
-    {
-      "id": 15,
-      "category":"Truk",
-      "title":"Iveco Stralis NR 4X2 Overload Trailers",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Iveco%20Stralis%20NR%204X2%20Overload%20Trailers.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Iveco%20Stralis%20NR%204X2%20Overload%20Trailers.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 16,
-      "category":"Truk",
-      "title":"JCB Fastrac 3230",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/JCB%20Fastrac%203230.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/JCB%20Fastrac%203230.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 17,
-      "category":"Truk",
-      "title":"Kamaz Master 4911",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Kamaz%20Master%204911.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Kamaz%20Master%204911.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 18,
-      "category":"Truk",
-      "title":"MAN TGA Energrom Edition by gonzalezvla",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/MAN%20TGA%20Energrom%20Edition%20by%20gonzalezvla.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/MAN%20TGA%20Energrom%20Edition%20by%20gonzalezvla.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 19,
-      "category":"Truk",
-      "title":"MAN TGS 18.320 Truk Sampah",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/MAN%20TGS%2018.320%20Truk%20Sampah.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/MAN%20TGS%2018.320%20Truk%20Sampah.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 20,
-      "category":"Truk",
-      "title":"Mercedes Benz Arocs SLT 4163 8x4 Euro 6 Evergreen",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Mercedes%20Benz%20Arocs%20SLT%204163%208x4%20Euro%206%20Evergreen.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Mercedes%20Benz%20Arocs%20SLT%204163%208x4%20Euro%206%20Evergreen.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 21,
-      "category":"Mobil",
-      "title":"Audi A1 Clubsport Quattro cvt Hanzoo Mod",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Audi%20A1%20Clubsport%20Quattro%20cvt%20Hanzoo%20Mod.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Audi%20A1%20Clubsport%20Quattro%20cvt%20Hanzoo%20Mod.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 22,
-      "category":"Mobil",
-      "title":"Audi R8 Spyder 5.2 V10 Plus LB Walk",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Audi%20R8%20Spyder%205.2%20V10%20Plus%20LB%20Walk.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Audi%20R8%20Spyder%205.2%20V10%20Plus%20LB%20Walk.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 23,
-      "category":"Mobil",
-      "title":"BMW M3 Safety Car Mandalika GP",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/BMW%20M3%20Safety%20Car%20Mandalika%20GP.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/BMW%20M3%20Safety%20Car%20Mandalika%20GP.bussidmod",
-      "link_livery":"null"
-    }
-  ,
-    {
-      "id": 24,
-      "category":"Mobil",
-      "title":"BMW M760Li 2022",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/BMW%20M760Li%202022.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/BMW%20M760Li%202022.bussidmod",
-      "link_livery":"null"
-    } ,
-    {
-      "id": 25,
-      "category":"Mobil",
-      "title":"Chevrolet Suburban FBI cvt MAH Channel",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Chevrolet%20Suburban%20FBI%20cvt%20MAH%20Channel.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Chevrolet%20Suburban%20FBI%20cvt%20MAH%20Channel.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 26,
-      "category":"Mobil",
-      "title":"Dodge Charger RT Fast X",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Dodge%20Charger%20RT%20Fast%20X.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Dodge%20Charger%20RT%20Fast%20X.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 27,
-      "category":"Mobil",
-      "title":"Fortuner Street Racing",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Fortuner%20Street%20Racing.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Fortuner%20Street%20Racing.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 28,
-      "category":"Mobil",
-      "title":"Honda Civic EG6 Street cvt Hanzoo",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Honda%20Civic%20EG6%20Street%20cvt%20Hanzoo.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Honda%20Civic%20EG6%20Street%20cvt%20Hanzoo.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 29,
-      "category":"Mobil",
-      "title":"Honda Fit Street Modifications cvt Hanzoo Mod",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Honda%20Fit%20Street%20Modifications%20cvt%20Hanzoo%20Mod.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Honda%20Fit%20Street%20Modifications%20cvt%20Hanzoo%20Mod.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 30,
-      "category":"Mobil",
-      "title":"Honda NSX Liberty Walk 2023 Version cvt Hanzoo Mod",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Honda%20NSX%20Liberty%20Walk%202023%20Version%20cvt%20Hanzoo%20Mod.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Honda%20NSX%20Liberty%20Walk%202023%20Version%20cvt%20Hanzoo%20Mod.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 31,
-      "category":"Mobil",
-      "title":"BMW CSL 3.0 Hommage R",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/BMW%20CSL%203.0%20Hommage%20R.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/BMW%20CSL%203.0%20Hommage%20R.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 32,
-      "category":"Motor",
-      "title":"BMW R1200 GS",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/BMW%20R1200%20GS.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/BMW%20R1200%20GS.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 33,
-      "category":"Motor",
-      "title":"CBR 300R TERBARU MAH Channel",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/CBR%20300R%20TERBARU%20MAH%20Channel.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/CBR%20300R%20TERBARU%20MAH%20Channel.bussidmod",
-      "link_livery":"null"
-    }
-  ,
-    {
-      "id": 34,
-      "category":"Motor",
-      "title":"Motor HAYABUSA 1300CC",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20HAYABUSA%201300CC.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20HAYABUSA%201300CC.bussidmod",
-      "link_livery":"null"
-    } ,
-    {
-      "id": 35,
-      "category":"Motor",
-      "title":"Ducati Monster 1200 S cvt MAH Channel",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Ducati%20Monster%201200%20S%20cvt%20MAH%20Channel.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Ducati%20Monster%201200%20S%20cvt%20MAH%20Channel.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 36,
-      "category":"Motor",
-      "title":"Ducati Monster 1200 S cvt",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Ducati%20Monster%201200%20S%20cvt.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Ducati%20Monster%201200%20S%20cvt.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 37,
-      "category":"Motor",
-      "title":"Kawasaki Ninja ZX25 R",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Kawasaki%20Ninja%20ZX25%20R.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Kawasaki%20Ninja%20ZX25%20R.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 38,
-      "category":"Motor",
-      "title":"MOTOR BMW S 1000 RR Asphalt 8 cvt MAH Channel",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/MOTOR%20BMW%20S%201000%20RR%20Asphalt%208%20cvt%20MAH%20Channel.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/MOTOR%20BMW%20S%201000%20RR%20Asphalt%208%20cvt%20MAH%20Channel.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 39,
-      "category":"Motor",
-      "title":"Motor CBR150r Knalpot Racing",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20CBR150r%20Knalpot%20Racing.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20CBR150r%20Knalpot%20Racing.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 40,
-      "category":"Motor",
-      "title":"Motor CBR600RR",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20CBR600RR.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20CBR600RR.bussidvehicle",
-      "link_livery":"null"
-    },
-    {
-      "id": 41,
-      "category":"Map",
-      "title":"MOD MAP KOTA MATI ALIYAN GMP",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/MOD%20MAP%20KOTA%20MATI%20BUSSID%20ALIYAN%20GMP.webp",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/MOD%20MAP%20KOTA%20MATI%20ALIYAN%20GMP.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 42,
-      "category":"Map",
-      "title":"Map Bukit Bintang by Amdroid 93 Channel",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Map%20Bukit%20Bintang%20by%20Amdroid%2093%20Channel.webp",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Bukit%20Bintang%20by%20Amdroid%2093%20Channel.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 43,
-      "category":"Map",
-      "title":"Map Ekstrim v3 by Aliyan GMP",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Map%20Ekstrim%20v3%20by%20Aliyan%20GMP.webp",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Ekstrim%20v3%20by%20Aliyan%20GMP.bussidmod",
-      "link_livery":"null"
-    }
-  ,
-    {
-      "id": 44,
-      "category":"Map",
-      "title":"Map Jalur Sibea bea Aliyan-GMP",
-      "image":"https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Jalur%20Sibea%20bea%20Aliyan-GMP.webp",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Jalur%20Sibea%20bea%20Aliyan-GMP.bussidmod",
-      "link_livery":"null"
-    } ,
-    {
-      "id": 45,
-      "category":"Map",
-      "title":"Map Kelok 18 by Aliyan GMP",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Map%20Kelok%2018%20by%20Aliyan%20GMP.webp",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Kelok%2018%20by%20Aliyan%20GMP.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 46,
-      "category":"Map",
-      "title":"Map Tol Trans Jawa V2 by X Play Kembar",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Map%20Tol%20Trans%20Jawa%20V2%20by%20X%20Play%20Kembar.webp",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Tol%20Trans%20Jawa%20V2%20by%20X%20Play%20Kembar.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 47,
-      "category":"Map",
-      "title":"Sitinjau Lauik Atas",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Sitinjau%20Lauik.webp",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Sitinjau%20Lauik%20Atas.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 48,
-      "category":"Map",
-      "title":"Sitinjau Lauik Bawah",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Sitinjau%20Lauik.webp",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Sitinjau%20Lauik%20Bawah.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 49,
-      "category":"Bis",
-      "title":"JB3 SHD Facelift Voyager Agra Tronton MD",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/JB3%20SHD%20Facelift%20Voyager%20Agra%20Tronton%20MD.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/JB3%20SHD%20Facelift%20Voyager%20Agra%20Tronton%20MD.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/JB3%20SHD%20Facelift%20Voyager%20Agra%20Tronton%20MD.png"
-    },
-    {
-      "id": 50,
-      "category":"Bis",
-      "title":"MAN Lions Coach FIFA World Cup Qatar 2022",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/MAN%20Lions%20Coach%20FIFA%20World%20Cup%20Qatar%202022.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/MAN%20Lions%20Coach%20FIFA%20World%20Cup%20Qatar%202022.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 51,
-      "category":"Bis",
-      "title":"MEDAL SEKARWANGI METROMINI",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/MEDAL%20SEKARWANGI%20METROMINI.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/MEDAL%20SEKARWANGI%20METROMINI.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/MEDAL%20SEKARWANGI%20METROMINI.png"
-    },
-    {
-      "id": 52,
-      "category":"Bis",
-      "title":"Metromini",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Metromini.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Metromini.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 53,
-      "category":"Bis",
-      "title":"Nucleus Berkarat",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Nucleus%20Berkarat.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Nucleus%20Berkarat.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Nucleus%20Berkarat.png"
-    }
-  ,
-    {
-      "id": 54,
-      "category":"Bis",
-      "title":"Pandawa 87 MU JB3 Tronton",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Pandawa%2087%20MU%20JB3%20Tronton.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Pandawa%2087%20MU%20JB3%20Tronton.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Pandawa%2087%20MU%20JB3%20Tronton.png"
-    } ,
-    {
-      "id": 55,
-      "category":"Bis",
-      "title":"SR2 XHD ECE R66 Putra Jaya Trans",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/SR2%20XHD%20ECE%20R66%20Putra%20Jaya%20Trans.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/SR2%20XHD%20ECE%20R66%20Putra%20Jaya%20Trans.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/SR2%20XHD%20ECE%20R66%20Putra%20Jaya%20Trans.png"
-    },
-    {
-      "id": 56,
-      "category":"Bis",
-      "title":"Scania Touring MAH Channel",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Scania%20Touring%20MAHChannel.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Scania%20Touring%20MAH%20Channel.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 57,
-      "category":"Bis",
-      "title":"Tividi Aulia Reborn JB3 Hino",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Tividi%20Aulia%20Reborn%20JB3%20Hino.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Tividi%20Aulia%20Reborn%20JB3%20Hino.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Tividi%20Aulia%20Reborn%20JB3%20Hino.png"
-    },
-    {
-      "id": 58,
-      "category":"Bis",
-      "title":"Travego Smile",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Travego%20Smile.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Travego%20Smile.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Travego%20Smile.png"
-    },
-    {
-      "id": 59,
-      "category":"Truk",
-      "title":"Mercedes Benz Arocs SLT 4163 8x4 Euro 6",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Mercedes%20Benz%20Arocs%20SLT%204163%208x4%20Euro%206.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Mercedes%20Benz%20Arocs%20SLT%204163%208x4%20Euro%206.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 60,
-      "category":"Truk",
-      "title":"New Tawakal 3",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/New%20Tawakal%203.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/New%20Tawakal%203.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 61,
-      "category":"Truk",
-      "title":"Renault Premium 450 6x4 1",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Renault%20Premium%20450%206x4%201.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Renault%20Premium%20450%206x4%201.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 62,
-      "category":"Truk",
-      "title":"Truck Fuso The Great full Anim",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truck%20Fuso%20The%20Great%20full%20Anim.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Truck%20Fuso%20The%20Great%20full%20Anim.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truck%20Fuso%20The%20Great%20full%20Anim.png"
-    },
-    {
-      "id": 63,
-      "category":"Truk",
-      "title":"Truck Isuzu Giga Bos Galak",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truck%20Isuzu%20Giga%20Bos%20Galak.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Truck%20Isuzu%20Giga%20Bos%20Galak.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truck%20Isuzu%20Giga%20Bos%20Galak.png"
-    }
-  ,
-    {
-      "id": 64,
-      "category":"Truk",
-      "title":"Truck Tanki CPO Final Full Anim",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truck%20Tanki%20CPO%20Final%20Full%20Anim.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Truck%20Tanki%20CPO%20Final%20Full%20Anim.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truck%20Tanki%20CPO%20Final%20Full%20Anim.png"
-    } ,
-    {
-      "id": 65,
-      "category":"Truk",
-      "title":"Truck Trailer Muatan Kendaraan Berat",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truck%20Trailer%20Muatan%20Kendaraan%20Berat.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Truck%20Trailer%20Muatan%20Kendaraan%20Berat.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 66,
-      "category":"Truk",
-      "title":"Truk Ford F Max Trailer",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truk%20Ford%20F%20Max%20Trailer.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Truk%20Ford%20F%20Max%20Trailer.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 67,
-      "category":"Truk",
-      "title":"Volvo FH460 EURO 6 by zm garageETS2gonzalezvla",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Volvo%20FH460%20EURO%206%20by%20zm%20garageETS2gonzalezvla.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Volvo%20FH460%20EURO%206%20by%20zm%20garageETS2gonzalezvla.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 68,
-      "category":"Truk",
-      "title":"Western Star 5700 XE",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Western%20Star%205700%20XE.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Western%20Star%205700%20XE.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 69,
-      "category":"Mobil",
-      "title":"Hummer H2 The HumROD",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Hummer%20H2%20The%20HumROD.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Hummer%20H2%20The%20HumROD.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 70,
-      "category":"Mobil",
-      "title":"Lamborghini Aventador LP700 4 Dubai HS Police cvt Hanzoo Mod",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Lamborghini%20Aventador%20LP700%204%20Dubai%20HS%20Police%20cvt%20Hanzoo%20Mod.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Lamborghini%20Aventador%20LP700%204%20Dubai%20HS%20Police%20cvt%20Hanzoo%20Mod.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 71,
-      "category":"Mobil",
-      "title":"Land Rover Range Rover Startech cvt Hanzoo",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Land%20Rover%20Range%20Rover%20Startech%20cvt%20Hanzoo.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Land%20Rover%20Range%20Rover%20Startech%20cvt%20Hanzoo.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 72,
-      "category":"Mobil",
-      "title":"Lexus NX200t AGZ10 cvt Hanzoo Mod",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Lexus%20NX200t%20AGZ10%20cvt%20Hanzoo%20Mod.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Lexus%20NX200t%20AGZ10%20cvt%20Hanzoo%20Mod.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 73,
-      "category":"Mobil",
-      "title":"Mercedes Benz SLS AMG cvt Hanzoomod",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Mercedes%20Benz%20SLS%20AMG%20cvt%20Hanzoomod.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Mercedes%20Benz%20SLS%20AMG%20cvt%20Hanzoomod.bussidmod",
-      "link_livery":"null"
-    }
-  ,
-    {
-      "id": 74,
-      "category":"Mobil",
-      "title":"Mercedes Maybach S650",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Mercedes%20Maybach%20S650.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Mercedes%20Maybach%20S650.bussidmod",
-      "link_livery":"null"
-    } ,
-    {
-      "id": 75,
-      "category":"Mobil",
-      "title":"Nissan GT-R Fake Taxi cvt Hanzoo Mod",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Nissan%20GT-R%20Fake%20Taxi%20cvt%20Hanzoo%20Mod.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Nissan%20GT-R%20Fake%20Taxi%20cvt%20Hanzoo%20Mod.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 76,
-      "category":"Mobil",
-      "title":"Renault Megane RS cvt Hanzoo Mod",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Renault%20Megane%20RS%20cvt%20Hanzoo%20Mod.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Renault%20Megane%20RS%20cvt%20Hanzoo%20Mod.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 77,
-      "category":"Mobil",
-      "title":"Subaru BRZ Rocket Bunny cvt Hanzoo",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Subaru%20BRZ%20Rocket%20Bunny%20cvt%20Hanzoo.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Subaru%20BRZ%20Rocket%20Bunny%20cvt%20Hanzoo.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 78,
-      "category":"Mobil",
-      "title":"Toyota Mark 2 Drift Tuning Custom cvt Hanzoo Mod",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Toyota%20Mark%202%20Drift%20Tuning%20Custom%20cvt%20Hanzoo%20Mod.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Toyota%20Mark%202%20Drift%20Tuning%20Custom%20cvt%20Hanzoo%20Mod.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 79,
-      "category":"Mobil",
-      "title":"Chevrolet Colorado ZR2 MAH Channel",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Chevrolet%20Colorado%20ZR2%20MAH%20Channel.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Chevrolet%20Colorado%20ZR2%20MAH%20Channel.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 80,
-      "category":"Mobil",
-      "title":"Mercedes Benz G Class 2019",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Mercedes%20Benz%20G%20Class%202019.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Mercedes%20Benz%20G%20Class%202019.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 81,
-      "category":"Mobil",
-      "title":"Mercedes Benz Silver Arrow Concept MAH Channel",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Mercedes%20Benz%20Silver%20Arrow%20Concept%20MAH%20Channel.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Mercedes%20Benz%20Silver%20Arrow%20Concept%20MAH%20Channel.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 82,
-      "category":"Motor",
-      "title":"Motor Harley Davidson FLHXS.jpeg",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20Harley%20Davidson%20%20FLHXS.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20Harley%20Davidson%20%20FLHXS.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 83,
-      "category":"Motor",
-      "title":"Motor Honda CBR 300R",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20Honda%20CBR%20300R.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20Honda%20CBR%20300R.bussidmod",
-      "link_livery":"null"
-    }
-  ,
-    {
-      "id": 84,
-      "category":"Motor",
-      "title":"Motor Honda PCX 150ccThailook Style",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20Honda%20PCX%20150ccThailook%20Style.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20Honda%20PCX%20150ccThailook%20Style.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20Honda%20PCX%20150ccThailook%20Style.png"
-    } ,
-    {
-      "id": 85,
-      "category":"Motor",
-      "title":"Motor Kawasaki Ninja ZX 6R 1",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20Kawasaki%20Ninja%20ZX%206R%201.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20Kawasaki%20Ninja%20ZX%206R%201.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20Kawasaki%20Ninja%20ZX%206R%201.png"
-    },
-    {
-      "id": 86,
-      "category":"Motor",
-      "title":"Motor Kawasaki Z800 Full Animation cvt MAH Channel",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20Kawasaki%20Z800%20Full%20Animation%20cvt%20MAH%20Channel.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20Kawasaki%20Z800%20Full%20Animation%20cvt%20MAH%20Channel.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 87,
-      "category":"Motor",
-      "title":"Motor MX King 150",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20MX%20King%20150.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20MX%20King%20150.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 88,
-      "category":"Motor",
-      "title":"Motor Sport R25",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20Sport%20R25.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20Sport%20R25.bussidmod",
-      "link_livery":"null"
-    }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "",
+			"select_backup_ads": "",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+			"main_ads_rewards": "ca-app-pub-3940256099942544/5224354917",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "db4d5e8718b97d78",
+			"backup_ads_intertitial": "518cd97722c60b52",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+			"open_ads_alien": "",
+			"open_ads_max": "",
+			"interval_intertitial": 5,
+			"initialize_sdk": "107355779",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"DATA": [
+		{
+			"id": 1,
+			"category": "Bis",
+			"title": "Bus Avengers",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Avengers.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20Avengers.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Avengers.png"
+		},
+		{
+			"id": 2,
+			"category": "Bis",
+			"title": "Bus Evolander DOP",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Evolander%20DOP.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20Evolander%20DOP.bussidvehicle",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Evolander%20DOP.png"
+		},
+		{
+			"id": 3,
+			"category": "Bis",
+			"title": "Bus Harapan Baru Jetbus 3",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Harapan%20Baru%20Jetbus%203.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20Harapan%20Baru%20Jetbus%203.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Harapan%20Baru%20Jetbus%203.png"
+		},
+		{
+			"id": 4,
+			"category": "Bis",
+			"title": "Bus JRG K410 SG",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20JRG%20K410%20SG.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20JRG%20K410%20SG.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20JRG%20K410%20SG.png"
+		},
+		{
+			"id": 5,
+			"category": "Bis",
+			"title": "Bus NPM Sultan Class black Scania K360",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20NPM%20Sultan%20Class%20black%20Scania%20K360.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20NPM%20Sultan%20Class%20black%20Scania%20K360.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20NPM%20Sultan%20Class%20black%20Scania%20K360.png"
+		},
+		{
+			"id": 6,
+			"category": "Bis",
+			"title": "Bus PO Haryanto Racing",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20PO%20Haryanto%20Racing.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20PO%20Haryanto%20Racing.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20PO%20Haryanto%20Racing.png"
+		},
+		{
+			"id": 7,
+			"category": "Bis",
+			"title": "Bus Sinar Dempo JB3 Scania",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Sinar%20Dempo%20JB3%20Scania.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20Sinar%20Dempo%20JB3%20Scania.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Sinar%20Dempo%20JB3%20Scania.png"
+		},
+		{
+			"id": 8,
+			"category": "Bis",
+			"title": "Bus Tunggal Jaya",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Tunggal%20Jaya.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20Tunggal%20Jaya.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Tunggal%20Jaya.png"
+		},
+		{
+			"id": 9,
+			"category": "Bis",
+			"title": "Bus Tunggal jaya Green Earth Full Anim",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Tunggal%20jaya%20Green%20Earth%20Full%20Anim.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Bus%20Tunggal%20jaya%20Green%20Earth%20Full%20Anim.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Bus%20Tunggal%20jaya%20Green%20Earth%20Full%20Anim.png"
+		},
+		{
+			"id": 10,
+			"category": "Bis",
+			"title": "JB3 Hino Diva Jaya Trans.bussidmod",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/JB3%20Hino%20Diva%20Jaya%20Trans.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/JB3%20Hino%20Diva%20Jaya%20Trans.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/JB3%20Hino%20Diva%20Jaya%20Trans.png"
+		},
+		{
+			"id": 11,
+			"category": "Truk",
+			"title": "Dump Truck Muatan Sawit",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Dump%20Truck%20Muatan%20Sawit.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Dump%20Truck%20Muatan%20Sawit.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 12,
+			"category": "Truk",
+			"title": "E One Titan Force 6x6 by constantine",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/E%20One%20Titan%20Force%206x6%20by%20constantine.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/E%20One%20Titan%20Force%206x6%20by%20constantine.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 13,
+			"category": "Truk",
+			"title": "Fuso Super Great Dump Truck by 41aeimis",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Fuso%20Super%20Great%20Dump%20Truck%20by%2041aeimis.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Fuso%20Super%20Great%20Dump%20Truck%20by%2041aeimis.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Fuso%20Super%20Great%20Dump%20Truck%20by%2041aeimis.png"
+		},
+		{
+			"id": 14,
+			"category": "Truk",
+			"title": "Hino Lohan Self Loader",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Hino%20Lohan%20Self%20Loader.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Hino-Lohan-Self-Loader.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 15,
+			"category": "Truk",
+			"title": "Iveco Stralis NR 4X2 Overload Trailers",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Iveco%20Stralis%20NR%204X2%20Overload%20Trailers.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Iveco%20Stralis%20NR%204X2%20Overload%20Trailers.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 16,
+			"category": "Truk",
+			"title": "JCB Fastrac 3230",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/JCB%20Fastrac%203230.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/JCB%20Fastrac%203230.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 17,
+			"category": "Truk",
+			"title": "Kamaz Master 4911",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Kamaz%20Master%204911.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Kamaz%20Master%204911.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 18,
+			"category": "Truk",
+			"title": "MAN TGA Energrom Edition by gonzalezvla",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/MAN%20TGA%20Energrom%20Edition%20by%20gonzalezvla.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/MAN%20TGA%20Energrom%20Edition%20by%20gonzalezvla.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 19,
+			"category": "Truk",
+			"title": "MAN TGS 18.320 Truk Sampah",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/MAN%20TGS%2018.320%20Truk%20Sampah.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/MAN%20TGS%2018.320%20Truk%20Sampah.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 20,
+			"category": "Truk",
+			"title": "Mercedes Benz Arocs SLT 4163 8x4 Euro 6 Evergreen",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Mercedes%20Benz%20Arocs%20SLT%204163%208x4%20Euro%206%20Evergreen.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Mercedes%20Benz%20Arocs%20SLT%204163%208x4%20Euro%206%20Evergreen.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 21,
+			"category": "Mobil",
+			"title": "Audi A1 Clubsport Quattro cvt Hanzoo Mod",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Audi%20A1%20Clubsport%20Quattro%20cvt%20Hanzoo%20Mod.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Audi%20A1%20Clubsport%20Quattro%20cvt%20Hanzoo%20Mod.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 22,
+			"category": "Mobil",
+			"title": "Audi R8 Spyder 5.2 V10 Plus LB Walk",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Audi%20R8%20Spyder%205.2%20V10%20Plus%20LB%20Walk.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Audi%20R8%20Spyder%205.2%20V10%20Plus%20LB%20Walk.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 23,
+			"category": "Mobil",
+			"title": "BMW M3 Safety Car Mandalika GP",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/BMW%20M3%20Safety%20Car%20Mandalika%20GP.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/BMW%20M3%20Safety%20Car%20Mandalika%20GP.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 24,
+			"category": "Mobil",
+			"title": "BMW M760Li 2022",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/BMW%20M760Li%202022.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/BMW%20M760Li%202022.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 25,
+			"category": "Mobil",
+			"title": "Chevrolet Suburban FBI cvt MAH Channel",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Chevrolet%20Suburban%20FBI%20cvt%20MAH%20Channel.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Chevrolet%20Suburban%20FBI%20cvt%20MAH%20Channel.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 26,
+			"category": "Mobil",
+			"title": "Dodge Charger RT Fast X",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Dodge%20Charger%20RT%20Fast%20X.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Dodge%20Charger%20RT%20Fast%20X.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 27,
+			"category": "Mobil",
+			"title": "Fortuner Street Racing",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Fortuner%20Street%20Racing.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Fortuner%20Street%20Racing.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 28,
+			"category": "Mobil",
+			"title": "Honda Civic EG6 Street cvt Hanzoo",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Honda%20Civic%20EG6%20Street%20cvt%20Hanzoo.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Honda%20Civic%20EG6%20Street%20cvt%20Hanzoo.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 29,
+			"category": "Mobil",
+			"title": "Honda Fit Street Modifications cvt Hanzoo Mod",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Honda%20Fit%20Street%20Modifications%20cvt%20Hanzoo%20Mod.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Honda%20Fit%20Street%20Modifications%20cvt%20Hanzoo%20Mod.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 30,
+			"category": "Mobil",
+			"title": "Honda NSX Liberty Walk 2023 Version cvt Hanzoo Mod",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Honda%20NSX%20Liberty%20Walk%202023%20Version%20cvt%20Hanzoo%20Mod.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Honda%20NSX%20Liberty%20Walk%202023%20Version%20cvt%20Hanzoo%20Mod.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 31,
+			"category": "Mobil",
+			"title": "BMW CSL 3.0 Hommage R",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/BMW%20CSL%203.0%20Hommage%20R.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/BMW%20CSL%203.0%20Hommage%20R.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 32,
+			"category": "Motor",
+			"title": "BMW R1200 GS",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/BMW%20R1200%20GS.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/BMW%20R1200%20GS.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 33,
+			"category": "Motor",
+			"title": "CBR 300R TERBARU MAH Channel",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/CBR%20300R%20TERBARU%20MAH%20Channel.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/CBR%20300R%20TERBARU%20MAH%20Channel.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 34,
+			"category": "Motor",
+			"title": "Motor HAYABUSA 1300CC",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20HAYABUSA%201300CC.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20HAYABUSA%201300CC.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 35,
+			"category": "Motor",
+			"title": "Ducati Monster 1200 S cvt MAH Channel",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Ducati%20Monster%201200%20S%20cvt%20MAH%20Channel.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Ducati%20Monster%201200%20S%20cvt%20MAH%20Channel.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 36,
+			"category": "Motor",
+			"title": "Ducati Monster 1200 S cvt",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Ducati%20Monster%201200%20S%20cvt.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Ducati%20Monster%201200%20S%20cvt.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 37,
+			"category": "Motor",
+			"title": "Kawasaki Ninja ZX25 R",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Kawasaki%20Ninja%20ZX25%20R.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Kawasaki%20Ninja%20ZX25%20R.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 38,
+			"category": "Motor",
+			"title": "MOTOR BMW S 1000 RR Asphalt 8 cvt MAH Channel",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/MOTOR%20BMW%20S%201000%20RR%20Asphalt%208%20cvt%20MAH%20Channel.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/MOTOR%20BMW%20S%201000%20RR%20Asphalt%208%20cvt%20MAH%20Channel.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 39,
+			"category": "Motor",
+			"title": "Motor CBR150r Knalpot Racing",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20CBR150r%20Knalpot%20Racing.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20CBR150r%20Knalpot%20Racing.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 40,
+			"category": "Motor",
+			"title": "Motor CBR600RR",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20CBR600RR.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20CBR600RR.bussidvehicle",
+			"link_livery": "null"
+		},
+		{
+			"id": 41,
+			"category": "Map",
+			"title": "MOD MAP KOTA MATI ALIYAN GMP",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/MOD%20MAP%20KOTA%20MATI%20BUSSID%20ALIYAN%20GMP.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/MOD%20MAP%20KOTA%20MATI%20ALIYAN%20GMP.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 42,
+			"category": "Map",
+			"title": "Map Bukit Bintang by Amdroid 93 Channel",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Map%20Bukit%20Bintang%20by%20Amdroid%2093%20Channel.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Bukit%20Bintang%20by%20Amdroid%2093%20Channel.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 43,
+			"category": "Map",
+			"title": "Map Ekstrim v3 by Aliyan GMP",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Map%20Ekstrim%20v3%20by%20Aliyan%20GMP.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Ekstrim%20v3%20by%20Aliyan%20GMP.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 44,
+			"category": "Map",
+			"title": "Map Jalur Sibea bea Aliyan-GMP",
+			"image": "https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Jalur%20Sibea%20bea%20Aliyan-GMP.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Jalur%20Sibea%20bea%20Aliyan-GMP.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 45,
+			"category": "Map",
+			"title": "Map Kelok 18 by Aliyan GMP",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Map%20Kelok%2018%20by%20Aliyan%20GMP.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Kelok%2018%20by%20Aliyan%20GMP.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 46,
+			"category": "Map",
+			"title": "Map Tol Trans Jawa V2 by X Play Kembar",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Map%20Tol%20Trans%20Jawa%20V2%20by%20X%20Play%20Kembar.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Tol%20Trans%20Jawa%20V2%20by%20X%20Play%20Kembar.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 47,
+			"category": "Map",
+			"title": "Sitinjau Lauik Atas",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Sitinjau%20Lauik.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Sitinjau%20Lauik%20Atas.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 48,
+			"category": "Map",
+			"title": "Sitinjau Lauik Bawah",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Sitinjau%20Lauik.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Sitinjau%20Lauik%20Bawah.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 49,
+			"category": "Bis",
+			"title": "JB3 SHD Facelift Voyager Agra Tronton MD",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/JB3%20SHD%20Facelift%20Voyager%20Agra%20Tronton%20MD.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/JB3%20SHD%20Facelift%20Voyager%20Agra%20Tronton%20MD.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/JB3%20SHD%20Facelift%20Voyager%20Agra%20Tronton%20MD.png"
+		},
+		{
+			"id": 50,
+			"category": "Bis",
+			"title": "MAN Lions Coach FIFA World Cup Qatar 2022",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/MAN%20Lions%20Coach%20FIFA%20World%20Cup%20Qatar%202022.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/MAN%20Lions%20Coach%20FIFA%20World%20Cup%20Qatar%202022.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 51,
+			"category": "Bis",
+			"title": "MEDAL SEKARWANGI METROMINI",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/MEDAL%20SEKARWANGI%20METROMINI.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/MEDAL%20SEKARWANGI%20METROMINI.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/MEDAL%20SEKARWANGI%20METROMINI.png"
+		},
+		{
+			"id": 52,
+			"category": "Bis",
+			"title": "Metromini",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Metromini.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Metromini.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 53,
+			"category": "Bis",
+			"title": "Nucleus Berkarat",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Nucleus%20Berkarat.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Nucleus%20Berkarat.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Nucleus%20Berkarat.png"
+		},
+		{
+			"id": 54,
+			"category": "Bis",
+			"title": "Pandawa 87 MU JB3 Tronton",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Pandawa%2087%20MU%20JB3%20Tronton.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Pandawa%2087%20MU%20JB3%20Tronton.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Pandawa%2087%20MU%20JB3%20Tronton.png"
+		},
+		{
+			"id": 55,
+			"category": "Bis",
+			"title": "SR2 XHD ECE R66 Putra Jaya Trans",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/SR2%20XHD%20ECE%20R66%20Putra%20Jaya%20Trans.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/SR2%20XHD%20ECE%20R66%20Putra%20Jaya%20Trans.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/SR2%20XHD%20ECE%20R66%20Putra%20Jaya%20Trans.png"
+		},
+		{
+			"id": 56,
+			"category": "Bis",
+			"title": "Scania Touring MAH Channel",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Scania%20Touring%20MAHChannel.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Scania%20Touring%20MAH%20Channel.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 57,
+			"category": "Bis",
+			"title": "Tividi Aulia Reborn JB3 Hino",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Tividi%20Aulia%20Reborn%20JB3%20Hino.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Tividi%20Aulia%20Reborn%20JB3%20Hino.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Tividi%20Aulia%20Reborn%20JB3%20Hino.png"
+		},
+		{
+			"id": 58,
+			"category": "Bis",
+			"title": "Travego Smile",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Travego%20Smile.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis1/raw/main/Travego%20Smile.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis1/main/Travego%20Smile.png"
+		},
+		{
+			"id": 59,
+			"category": "Truk",
+			"title": "Mercedes Benz Arocs SLT 4163 8x4 Euro 6",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Mercedes%20Benz%20Arocs%20SLT%204163%208x4%20Euro%206.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Mercedes%20Benz%20Arocs%20SLT%204163%208x4%20Euro%206.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 60,
+			"category": "Truk",
+			"title": "New Tawakal 3",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/New%20Tawakal%203.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/New%20Tawakal%203.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 61,
+			"category": "Truk",
+			"title": "Renault Premium 450 6x4 1",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Renault%20Premium%20450%206x4%201.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Renault%20Premium%20450%206x4%201.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 62,
+			"category": "Truk",
+			"title": "Truck Fuso The Great full Anim",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truck%20Fuso%20The%20Great%20full%20Anim.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Truck%20Fuso%20The%20Great%20full%20Anim.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truck%20Fuso%20The%20Great%20full%20Anim.png"
+		},
+		{
+			"id": 63,
+			"category": "Truk",
+			"title": "Truck Isuzu Giga Bos Galak",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truck%20Isuzu%20Giga%20Bos%20Galak.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Truck%20Isuzu%20Giga%20Bos%20Galak.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truck%20Isuzu%20Giga%20Bos%20Galak.png"
+		},
+		{
+			"id": 64,
+			"category": "Truk",
+			"title": "Truck Tanki CPO Final Full Anim",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truck%20Tanki%20CPO%20Final%20Full%20Anim.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Truck%20Tanki%20CPO%20Final%20Full%20Anim.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truck%20Tanki%20CPO%20Final%20Full%20Anim.png"
+		},
+		{
+			"id": 65,
+			"category": "Truk",
+			"title": "Truck Trailer Muatan Kendaraan Berat",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truck%20Trailer%20Muatan%20Kendaraan%20Berat.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Truck%20Trailer%20Muatan%20Kendaraan%20Berat.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 66,
+			"category": "Truk",
+			"title": "Truk Ford F Max Trailer",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Truk%20Ford%20F%20Max%20Trailer.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Truk%20Ford%20F%20Max%20Trailer.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 67,
+			"category": "Truk",
+			"title": "Volvo FH460 EURO 6 by zm garageETS2gonzalezvla",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Volvo%20FH460%20EURO%206%20by%20zm%20garageETS2gonzalezvla.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Volvo%20FH460%20EURO%206%20by%20zm%20garageETS2gonzalezvla.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 68,
+			"category": "Truk",
+			"title": "Western Star 5700 XE",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck1/main/Western%20Star%205700%20XE.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck1/raw/main/Western%20Star%205700%20XE.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 69,
+			"category": "Mobil",
+			"title": "Hummer H2 The HumROD",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Hummer%20H2%20The%20HumROD.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Hummer%20H2%20The%20HumROD.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 70,
+			"category": "Mobil",
+			"title": "Lamborghini Aventador LP700 4 Dubai HS Police cvt Hanzoo Mod",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Lamborghini%20Aventador%20LP700%204%20Dubai%20HS%20Police%20cvt%20Hanzoo%20Mod.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Lamborghini%20Aventador%20LP700%204%20Dubai%20HS%20Police%20cvt%20Hanzoo%20Mod.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 71,
+			"category": "Mobil",
+			"title": "Land Rover Range Rover Startech cvt Hanzoo",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Land%20Rover%20Range%20Rover%20Startech%20cvt%20Hanzoo.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Land%20Rover%20Range%20Rover%20Startech%20cvt%20Hanzoo.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 72,
+			"category": "Mobil",
+			"title": "Lexus NX200t AGZ10 cvt Hanzoo Mod",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Lexus%20NX200t%20AGZ10%20cvt%20Hanzoo%20Mod.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Lexus%20NX200t%20AGZ10%20cvt%20Hanzoo%20Mod.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 73,
+			"category": "Mobil",
+			"title": "Mercedes Benz SLS AMG cvt Hanzoomod",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Mercedes%20Benz%20SLS%20AMG%20cvt%20Hanzoomod.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Mercedes%20Benz%20SLS%20AMG%20cvt%20Hanzoomod.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 74,
+			"category": "Mobil",
+			"title": "Mercedes Maybach S650",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Mercedes%20Maybach%20S650.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Mercedes%20Maybach%20S650.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 75,
+			"category": "Mobil",
+			"title": "Nissan GT-R Fake Taxi cvt Hanzoo Mod",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Nissan%20GT-R%20Fake%20Taxi%20cvt%20Hanzoo%20Mod.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Nissan%20GT-R%20Fake%20Taxi%20cvt%20Hanzoo%20Mod.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 76,
+			"category": "Mobil",
+			"title": "Renault Megane RS cvt Hanzoo Mod",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Renault%20Megane%20RS%20cvt%20Hanzoo%20Mod.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Renault%20Megane%20RS%20cvt%20Hanzoo%20Mod.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 77,
+			"category": "Mobil",
+			"title": "Subaru BRZ Rocket Bunny cvt Hanzoo",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Subaru%20BRZ%20Rocket%20Bunny%20cvt%20Hanzoo.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Subaru%20BRZ%20Rocket%20Bunny%20cvt%20Hanzoo.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 78,
+			"category": "Mobil",
+			"title": "Toyota Mark 2 Drift Tuning Custom cvt Hanzoo Mod",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Toyota%20Mark%202%20Drift%20Tuning%20Custom%20cvt%20Hanzoo%20Mod.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Mobil1/raw/main/Toyota%20Mark%202%20Drift%20Tuning%20Custom%20cvt%20Hanzoo%20Mod.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 79,
+			"category": "Mobil",
+			"title": "Chevrolet Colorado ZR2 MAH Channel",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Chevrolet%20Colorado%20ZR2%20MAH%20Channel.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Chevrolet%20Colorado%20ZR2%20MAH%20Channel.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 80,
+			"category": "Mobil",
+			"title": "Mercedes Benz G Class 2019",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Mercedes%20Benz%20G%20Class%202019.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Mercedes%20Benz%20G%20Class%202019.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 81,
+			"category": "Mobil",
+			"title": "Mercedes Benz Silver Arrow Concept MAH Channel",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Mercedes%20Benz%20Silver%20Arrow%20Concept%20MAH%20Channel.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Mercedes%20Benz%20Silver%20Arrow%20Concept%20MAH%20Channel.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 82,
+			"category": "Motor",
+			"title": "Motor Harley Davidson FLHXS.jpeg",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20Harley%20Davidson%20%20FLHXS.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20Harley%20Davidson%20%20FLHXS.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 83,
+			"category": "Motor",
+			"title": "Motor Honda CBR 300R",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20Honda%20CBR%20300R.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20Honda%20CBR%20300R.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 84,
+			"category": "Motor",
+			"title": "Motor Honda PCX 150ccThailook Style",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20Honda%20PCX%20150ccThailook%20Style.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20Honda%20PCX%20150ccThailook%20Style.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20Honda%20PCX%20150ccThailook%20Style.png"
+		},
+		{
+			"id": 85,
+			"category": "Motor",
+			"title": "Motor Kawasaki Ninja ZX 6R 1",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20Kawasaki%20Ninja%20ZX%206R%201.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20Kawasaki%20Ninja%20ZX%206R%201.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20Kawasaki%20Ninja%20ZX%206R%201.png"
+		},
+		{
+			"id": 86,
+			"category": "Motor",
+			"title": "Motor Kawasaki Z800 Full Animation cvt MAH Channel",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20Kawasaki%20Z800%20Full%20Animation%20cvt%20MAH%20Channel.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20Kawasaki%20Z800%20Full%20Animation%20cvt%20MAH%20Channel.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 87,
+			"category": "Motor",
+			"title": "Motor MX King 150",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20MX%20King%20150.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20MX%20King%20150.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 88,
+			"category": "Motor",
+			"title": "Motor Sport R25",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor1/main/Motor%20Sport%20R25.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor1/raw/main/Motor%20Sport%20R25.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 89,
+			"category": "Bis",
+			"title": "Bus ALS Legend JBHD Tameng Full Aksesoris",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20ALS%20Legend%20JBHD%20Tameng%20Full%20Aksesoris.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis2/raw/main/Bus%20ALS%20Legend%20JBHD%20Tameng%20Full%20Aksesoris.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20ALS%20Legend%20JBHD%20Tameng%20Full%20Aksesoris.png"
+		},
+		{
+			"id": 90,
+			"category": "Bis",
+			"title": "Bus Avante H9 Sinar Jaya",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20Avante%20H9%20Sinar%20Jaya.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis2/raw/main/Bus%20Avante%20H9%20Sinar%20Jaya.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20Avante%20H9%20Sinar%20Jaya.png"
+		},
+		{
+			"id": 91,
+			"category": "Bis",
+			"title": "Bus Damri SR1 Hino RN",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20Damri%20SR1%20Hino%20RN.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis2/raw/main/Bus%20Damri%20SR1%20Hino%20RN.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20Damri%20SR1%20Hino%20RN.png"
+		},
+		{
+			"id": 92,
+			"category": "Bis",
+			"title": "Bus Haryanto White Roses HR 15 Full Aksesoris",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20Haryanto%20White%20Roses%20HR%2015%20Full%20Aksesoris.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis2/raw/main/Bus%20Haryanto%20White%20Roses%20HR%2015%20Full%20Aksesoris.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20Haryanto%20White%20Roses%20HR%2015%20Full%20Aksesoris.png"
+		},
+		{
+			"id": 93,
+			"category": "Bis",
+			"title": "Bus JB2 ZTOM x HSD by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20JB2%20ZTOM%20x%20HSD%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis2/raw/main/Bus%20JB2%20ZTOM%20x%20HSD%20by%20Budesign.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 94,
+			"category": "Bis",
+			"title": "Bus Litha co toraja suites class",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20Litha%20co%20toraja%20suites%20class.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis2/raw/main/Bus%20Litha%20co%20toraja%20suites%20class.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20Litha%20co%20toraja%20suites%20class.png"
+		},
+		{
+			"id": 95,
+			"category": "Bis",
+			"title": "Bus Mendali Emas",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20Mendali%20Emas.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis2/raw/main/Bus%20Mendali%20Emas.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20Mendali%20Emas.png"
+		},
+		{
+			"id": 96,
+			"category": "Bis",
+			"title": "Bus SKM Trans Detective",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20SKM%20Trans%20Detective.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis2/raw/main/Bus%20SKM%20Trans%20Detective.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20SKM%20Trans%20Detective.png"
+		},
+		{
+			"id": 97,
+			"category": "Bis",
+			"title": "Bus SR2 Panorama",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20SR2%20Panorama.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis2/raw/main/Bus%20SR2%20Panorama.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20SR2%20Panorama.png"
+		},
+		{
+			"id": 98,
+			"category": "Bis",
+			"title": "Bus SR3 Rosalia Indah Double Decker",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20SR3%20Rosalia%20Indah%20Double%20Decker.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis2/raw/main/Bus%20SR3%20Rosalia%20Indah%20Double%20Decker.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20SR3%20Rosalia%20Indah%20Double%20Decker.png"
+		},
+		{
+			"id": 99,
+			"category": "Bis",
+			"title": "Bus Safari Dharma Raya JBHD Alcoa Full Variasi",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20Safari%20Dharma%20Raya%20JBHD%20Alcoa%20Full%20Variasi.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis2/raw/main/Bus%20Safari%20Dharma%20Raya%20JBHD%20Alcoa%20Full%20Variasi.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20Safari%20Dharma%20Raya%20JBHD%20Alcoa%20Full%20Variasi.png"
+		},
+		{
+			"id": 100,
+			"category": "Bis",
+			"title": "Bus Sempati Star JB2HD Full Aksesoris",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20Sempati%20Star%20JB2HD%20Full%20Aksesoris.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis2/raw/main/Bus%20Sempati%20Star%20JB2HD%20Full%20Aksesoris.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Bus%20Sempati%20Star%20JB2HD%20Full%20Aksesoris.png"
+		},
+		{
+			"id": 101,
+			"category": "Bis",
+			"title": "MHD Trio Muji Jaya HR Javas",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/MHD%20Trio%20Muji%20Jaya%20HR%20Javas.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis2/raw/main/MHD%20Trio%20Muji%20Jaya%20HR%20Javas.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/MHD%20Trio%20Muji%20Jaya%20HR%20Javas.png"
+		},
+		{
+			"id": 102,
+			"category": "Bis",
+			"title": "Mercedes Benz Travego",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Mercedes%20Benz%20Travego.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis2/raw/main/Mercedes%20Benz%20Travego.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 103,
+			"category": "Bis",
+			"title": "Volvo 9800 4x2 cvt Hanzoo Mod",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis2/main/Volvo%209800%204x2%20cvt%20Hanzoo%20Mod.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis2/raw/main/Volvo%209800%204x2%20cvt%20Hanzoo%20Mod.bussidmod",
+			"link_livery": "null"
+		}
+	]
 }
