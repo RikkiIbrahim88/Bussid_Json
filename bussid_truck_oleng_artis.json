@@ -69,7 +69,7 @@
 		},
 		{
 			"id": 6,
-			"category": "Truk 1",
+			"category": "Truk 2",
 			"title": "Truck Canter Custom 13 Topi by Budesign",
 			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Custom%2013%20Topi%20by%20%20Budesign.jpg",
 			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Custom%2013%20Topi%20by%20%20Budesign.bussidmod",
@@ -77,7 +77,7 @@
 		},
 		{
 			"id": 7,
-			"category": "Truk 1",
+			"category": "Truk 2",
 			"title": "Truck Canter HDL Zivanez Team by Budesign",
 			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20HDL%20Zivanez%20Team%20by%20Budesign.jpg",
 			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20HDL%20Zivanez%20Team%20by%20Budesign.bussidmod",
@@ -85,7 +85,7 @@
 		},
 		{
 			"id": 8,
-			"category": "Truk 1",
+			"category": "Truk 2",
 			"title": "Truck Canter Herex SL Jaya Standar by Budesign",
 			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Herex%20SL%20Jaya%20Standar%20by%20Budesign.jpg",
 			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Herex%20SL%20Jaya%20Standar%20by%20Budesign.bussidmod",
@@ -93,7 +93,7 @@
 		},
 		{
 			"id": 9,
-			"category": "Truk 1",
+			"category": "Truk 2",
 			"title": "Truck Canter Herex Stainless by Budesign",
 			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Herex%20Stainless%20by%20Budesign.jpg",
 			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Herex%20Stainless%20by%20Budesign.bussidmod",
@@ -101,11 +101,91 @@
 		},
 		{
 			"id": 10,
-			"category": "Truk 1",
+			"category": "Truk 2",
 			"title": "Truck Canter My Friend BKJ Suspensi Standar by Budesign",
 			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20My%20Friend%20BKJ%20Suspensi%20Standar%20by%20Budesign.jpg",
 			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20My%20Friend%20BKJ%20Suspensi%20Standar%20by%20Budesign.bussidmod",
 			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20My%20Friend%20BKJ%20Suspensi%20Standar%20by%20Budesign.png"
+		},
+		{
+			"id": 11,
+			"category": "Truk 3",
+			"title": "Truck Canter Public Figure Biru by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Public%20Figure%20Biru%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Public%20Figure%20Biru%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Public%20Figure%20Biru%20by%20Budesign.png"
+		},
+		{
+			"id": 12,
+			"category": "Truk 3",
+			"title": "Truck Canter SRX by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20SRX%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20SRX%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20SRX%20by%20Budesign.png"
+		},
+		{
+			"id": 13,
+			"category": "Truk 3",
+			"title": "Truck Canter Sanjaya by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Sanjaya%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Sanjaya%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Sanjaya%20by%20Budesign.png"
+		},
+		{
+			"id": 14,
+			"category": "Truk 3",
+			"title": "Truck Canter Sinden Gosip",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Sinden%20Gosip.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Sinden%20Gosip.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Sinden%20Gosip.png"
+		},
+		{
+			"id": 15,
+			"category": "Truk 3",
+			"title": "Truck Canter Tangki by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Tangki%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Tangki%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Tangki%20by%20Budesign.png"
+		},
+		{
+			"id": 16,
+			"category": "Truk 4",
+			"title": "Truck Canter Trondol Terpal Kotak by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Trondol%20Terpal%20Kotak%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Trondol%20Terpal%20Kotak%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Trondol%20Terpal%20Kotak%20by%20Budesign.png"
+		},
+		{
+			"id": 17,
+			"category": "Truk 4",
+			"title": "Truck Canter Trondol Terpal Segitiga by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Trondol%20Terpal%20Segitiga%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Trondol%20Terpal%20Segitiga%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Trondol%20Terpal%20Segitiga%20by%20Budesign.png"
+		},
+		{
+			"id": 18,
+			"category": "Truk 4",
+			"title": "Truck My Friend BKJ Kontes by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20My%20Friend%20BKJ%20Kontes%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20My%20Friend%20BKJ%20Kontes%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20My%20Friend%20BKJ%20Kontes%20by%20Budesign.png"
+		},
+		{
+			"id": 19,
+			"category": "Truk 4",
+			"title": "Truck Canter Ayam Custom by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Ayam%20Custom%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Ayam%20Custom%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Ayam%20Custom%20by%20Budesign.png"
+		},
+		{
+			"id": 20,
+			"category": "Truk 4",
+			"title": "Truck Canter Box by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Box%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Box%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Box%20by%20Budesign.png"
 		}
 	]
 }
