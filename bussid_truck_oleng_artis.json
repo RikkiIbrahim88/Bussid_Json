@@ -186,6 +186,46 @@
 			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Box%20by%20Budesign.jpg",
 			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Box%20by%20Budesign.bussidmod",
 			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Box%20by%20Budesign.png"
+		},
+		{
+			"id": 21,
+			"category": "Map",
+			"title": "MOD MAP KOTA MATI ALIYAN GMP",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/MOD%20MAP%20KOTA%20MATI%20BUSSID%20ALIYAN%20GMP.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/MOD%20MAP%20KOTA%20MATI%20ALIYAN%20GMP.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 22,
+			"category": "Map",
+			"title": "Map Bukit Bintang by Amdroid 93 Channel",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Map%20Bukit%20Bintang%20by%20Amdroid%2093%20Channel.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Bukit%20Bintang%20by%20Amdroid%2093%20Channel.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 23,
+			"category": "Map",
+			"title": "Map Ekstrim v3 by Aliyan GMP",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Map%20Ekstrim%20v3%20by%20Aliyan%20GMP.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Ekstrim%20v3%20by%20Aliyan%20GMP.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 24,
+			"category": "Map",
+			"title": "Map Jalur Sibea bea Aliyan-GMP",
+			"image": "https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Jalur%20Sibea%20bea%20Aliyan-GMP.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Jalur%20Sibea%20bea%20Aliyan-GMP.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 25,
+			"category": "Map",
+			"title": "Map Kelok 18 by Aliyan GMP",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Map%20Kelok%2018%20by%20Aliyan%20GMP.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Kelok%2018%20by%20Aliyan%20GMP.bussidmod",
+			"link_livery": "null"
 		}
 	]
 }
