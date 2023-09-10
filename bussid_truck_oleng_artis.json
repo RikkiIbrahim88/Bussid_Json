@@ -226,6 +226,46 @@
 			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Map%20Kelok%2018%20by%20Aliyan%20GMP.webp",
 			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Kelok%2018%20by%20Aliyan%20GMP.bussidmod",
 			"link_livery": "null"
+		},
+		{
+			"id": 26,
+			"category": "Truk 1",
+			"title": "Truck Cante Samudra Nusantara",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Cante%20Samudra%20Nusantara.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Cante%20Samudra%20Nusantara.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Cante%20Samudra%20Nusantara.png"
+		},
+		{
+			"id": 27,
+			"category": "Truk 1",
+			"title": "Truck Canter 010 Full Box Mbois",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20010%20Full%20Box%20Mbois.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20010%20Full%20Box%20Mbois.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20010%20Full%20Box%20Mbois.png"
+		},
+		{
+			"id": 28,
+			"category": "Truk 1",
+			"title": "Truck Canter Ayam Bodykit Samudra Nusantara",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Ayam%20Bodykit%20Samudra%20Nusantara.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20Ayam%20Bodykit%20Samudra%20Nusantara.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Ayam%20Bodykit%20Samudra%20Nusantara.png"
+		},
+		{
+			"id": 29,
+			"category": "Truk 1",
+			"title": "Truck Canter Ayam Immanuel",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Ayam%20Immanuel.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20Ayam%20Immanuel.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Ayam%20Immanuel.png"
+		},
+		{
+			"id": 30,
+			"category": "Truk 1",
+			"title": "Truck Canter Black Team Fauzi Ardant by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Black%20Team%20Fauzi%20Ardant%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20Black%20Team%20Fauzi%20Ardant%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Black%20Team%20Fauzi%20Ardant%20by%20Budesign.png"
 		}
 	]
 }
