@@ -1370,6 +1370,86 @@
 			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor2/main/Motor%20Yamaha%20YZR%20Valentino%20Rossi%201.jpeg",
 			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor2/raw/main/Motor%20Yamaha%20YZR%20Valentino%20Rossi%201.bussidmod",
 			"link_livery": "null"
+		},
+		{
+			"id": 169,
+			"category": "Bis",
+			"title": "Bus Bumel Sumber Kencono",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis3/main/Bus%20Bumel%20Sumber%20Kencono.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis3/raw/main/Bus%20Bumel%20Sumber%20Kencono.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 170,
+			"category": "Bis",
+			"title": "Bus Jetline SHD Hino RK8",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis3/main/Bus%20Jetline%20SHD%20Hino%20RK8.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis3/raw/main/Bus%20Jetline%20SHD%20Hino%20RK8.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis3/main/Bus%20Jetline%20SHD%20Hino%20RK8.png"
+		},
+		{
+			"id": 171,
+			"category": "Bis",
+			"title": "Bus Marcopolo Paradiso 1800DD",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis3/main/Bus%20Jetline%20SHD%20Hino%20RK8.png",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis3/raw/main/Bus%20Marcopolo%20Paradiso%201800DD.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis3/main/Bus%20Marcopolo%20Paradiso%201800DD.png"
+		},
+		{
+			"id": 172,
+			"category": "Bis",
+			"title": "Bus SR2 XHD Scania K410iB",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis3/main/Bus%20SR2%20XHD%20Scania%20K410iB.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis3/raw/main/Bus%20SR2%20XHD%20Scania%20K410iB.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis3/main/Bus%20SR2%20XHD%20Scania%20K410iB.png"
+		},
+		{
+			"id": 173,
+			"category": "Bis",
+			"title": "Bus Scania Touring",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis3/main/Bus%20Scania%20Touring.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis3/raw/main/Bus%20Scania%20Touring.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 174,
+			"category": "Bis",
+			"title": "Bus Trans Jakarta Gandeng",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis3/main/Bus%20Trans%20Jakarta%20Gandeng.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis3/raw/main/Bus%20Trans%20Jakarta%20Gandeng.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 175,
+			"category": "Bis",
+			"title": "JB3 SHD Volvo B11R Gunung Harta",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis3/main/JB3%20SHD%20Volvo%20B11R%20Gunung%20Harta.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis3/raw/main/JB3%20SHD%20Volvo%20B11R%20Gunung%20Harta.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis3/main/JB3%20SHD%20Volvo%20B11R%20Gunung%20Harta.png"
+		},
+		{
+			"id": 176,
+			"category": "Bis",
+			"title": "Jetbus 2 Travego",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis3/main/Jetbus%202%20Travego.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis3/raw/main/Jetbus%202%20Travego.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 177,
+			"category": "Bis",
+			"title": "SR2 XHD Prime Scania K410iB Varian Sumatra",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis3/main/SR2%20XHD%20Prime%20Scania%20K410iB%20Varian%20Sumatra.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis3/raw/main/SR2%20XHD%20Prime%20Scania%20K410iB%20Varian%20Sumatra.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis3/main/SR2%20XHD%20Prime%20Scania%20K410iB%20Varian%20Sumatra.png"
+		},
+		{
+			"id": 178,
+			"category": "Bis",
+			"title": "SR2 XHD Prime Scania K410iB",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis3/main/SR2%20XHD%20Prime%20Scania%20K410iB.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis3/raw/main/SR2%20XHD%20Prime%20Scania%20K410iB.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis3/main/SR2%20XHD%20Prime%20Scania%20K410iB.png"
 		}
 	]
 }
