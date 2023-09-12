@@ -1450,6 +1450,78 @@
 			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis3/main/SR2%20XHD%20Prime%20Scania%20K410iB.jpeg",
 			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis3/raw/main/SR2%20XHD%20Prime%20Scania%20K410iB.bussidmod",
 			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis3/main/SR2%20XHD%20Prime%20Scania%20K410iB.png"
+		},
+		{
+			"id": 179,
+			"category": "Truk",
+			"title": "Truck Canter Ayam Custom by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Ayam%20Custom%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Ayam%20Custom%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Ayam%20Custom%20by%20Budesign.png"
+		},
+		{
+			"id": 180,
+			"category": "Truk",
+			"title": "Truck Canter Custom 11 Terpal Krodong by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/-Bussid_Truck3/main/Truck%20Canter%20Custom%2011%20Terpal%20Krodong%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/-Bussid_Truck3/raw/main/Truck%20Canter%20Custom%2011%20Terpal%20Krodong%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/-Bussid_Truck3/main/Truck%20Canter%20Custom%2011%20Terpal%20Krodong%20by%20Budesign.png"
+		},
+		{
+			"id": 181,
+			"category": "Truk",
+			"title": "Truck Canter Custom 11 Terpal Segitiga by Budesign.",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/-Bussid_Truck3/main/Truck%20Canter%20Custom%2011%20Terpal%20Segitiga%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/-Bussid_Truck3/raw/main/Truck%20Canter%20Custom%2011%20Terpal%20Segitiga%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/-Bussid_Truck3/main/Truck%20Canter%20Custom%2011%20Terpal%20Segitiga%20by%20Budesign.png"
+		},
+		{
+			"id": 182,
+			"category": "Truk",
+			"title": "Truck Canter Public Figure Biru by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/-Bussid_Truck3/main/Truck%20Canter%20Public%20Figure%20Biru%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/-Bussid_Truck3/raw/main/Truck%20Canter%20Public%20Figure%20Biru%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/-Bussid_Truck3/main/Truck%20Canter%20Public%20Figure%20Biru%20by%20Budesign.png"
+		},
+		{
+			"id": 183,
+			"category": "Truk",
+			"title": "Truck Canter Tangki by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/-Bussid_Truck3/main/Truck%20Canter%20Tangki%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/-Bussid_Truck3/raw/main/Truck%20Canter%20Tangki%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/-Bussid_Truck3/main/Truck%20Canter%20Tangki%20by%20Budesign.png"
+		},
+		{
+			"id": 184,
+			"category": "Truk",
+			"title": "Truck Hino 500 Flatbed by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/-Bussid_Truck3/main/Truck%20Hino%20500%20Flatbed%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/-Bussid_Truck3/raw/main/Truck%20Hino%20500%20Flatbed%20by%20Budesign.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 185,
+			"category": "Truk",
+			"title": "Truck Hino 500 Tronton by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/-Bussid_Truck3/main/Truck%20Hino%20500%20Tronton%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/-Bussid_Truck3/raw/main/Truck%20Hino%20500%20Tronton%20by%20Budesign.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 186,
+			"category": "Truk",
+			"title": "Truck Hino Dutro Pasiran by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/-Bussid_Truck3/main/Truck%20Hino%20Dutro%20Pasiran%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/-Bussid_Truck3/raw/main/Truck%20Hino%20Dutro%20Pasiran%20by%20Budesign.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 187,
+			"category": "Truk",
+			"title": "Truck Isuzu NMR 71 Beneficia by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/-Bussid_Truck3/main/Truck%20Isuzu%20NMR%2071%20Beneficia%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/-Bussid_Truck3/raw/main/Truck%20Isuzu%20NMR%2071%20Beneficia%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/-Bussid_Truck3/main/Truck%20Isuzu%20NMR%2071%20Beneficia%20by%20Budesign.png"
 		}
 	]
 }
