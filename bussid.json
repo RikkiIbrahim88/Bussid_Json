@@ -1682,6 +1682,30 @@
 			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Motor3/main/RX%20King.jpeg",
 			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Motor3/raw/main/RX%20King.bussidmod",
 			"link_livery": "null"
+		},
+		{
+			"id": 208,
+			"category": "Map",
+			"title": "Motor Gerobak Bakso",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Unik1/main/MOTOR%20GEROBAK%20BAKSO.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Unik1/raw/main/MOTOR%20GEROBAK%20BAKSO.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 209,
+			"category": "Map",
+			"title": "Mercedes Benz Daimler 1886 cvt Hanzoo Mod",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Unik1/main/Mercedes%20Benz%20Daimler%201886%20cvt%20Hanzoo%20Mod.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Unik1/raw/main/Mercedes%20Benz%20Daimler%201886%20cvt%20Hanzoo%20Mod.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 210,
+			"category": "Map",
+			"title": "Yach Deluxe by Tatui",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Unik1/main/Yach%20Deluxe%20by%20Tatui.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Unik1/raw/main/Yach%20Deluxe%20by%20Tatui.bussidmod",
+			"link_livery": "null"
 		}
 	]
 }
