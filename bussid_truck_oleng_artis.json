@@ -386,6 +386,46 @@
 			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Sujama%20Malika.jpeg",
 			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20Sujama%20Malika.bussidmod",
 			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Sujama%20Malika.png"
+		},
+		{
+			"id": 46,
+			"category": "Truk 1",
+			"title": "Truck Canter Ayam Maulana Expedition",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20Ayam%20Maulana%20%20Expedition.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter3/raw/main/Truck%20Canter%20Ayam%20Maulana%20%20Expedition.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20Ayam%20Maulana%20%20Expedition.png"
+		},
+		{
+			"id": 47,
+			"category": "Truk 1",
+			"title": "Truck Canter Black Team Giga Merah",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20Black%20Team%20Giga%20Merah.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter3/raw/main/Truck%20Canter%20Black%20Team%20Giga%20Merah.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20Black%20Team%20Giga%20Merah.png"
+		},
+		{
+			"id": 48,
+			"category": "Truk 1",
+			"title": "Truck Canter New Tawakal 3 Tanpa Terpal",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Tawakal%203%20Tanpa%20Terpal.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter3/raw/main/Truck%20Canter%20New%20Tawakal%203%20Tanpa%20Terpal.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Tawakal%203%20Tanpa%20Terpal.png"
+		},
+		{
+			"id": 49,
+			"category": "Truk 1",
+			"title": "Truck Canter New Tawakal 3 Terpal Gayor",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Tawakal%203%20Tanpa%20Terpal.png",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter3/raw/main/Truck%20Canter%20New%20Tawakal%203%20Terpal%20Gayor.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Tawakal%203%20Terpal%20Gayor.png"
+		},
+		{
+			"id": 50,
+			"category": "Truk 1",
+			"title": "Truck Canter New Tawakal 3 Terpal Kotak.",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Tawakal%203%20Terpal%20Kotak.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter3/raw/main/Truck%20Canter%20New%20Tawakal%203%20Terpal%20Kotak.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Tawakal%203%20Terpal%20Kotak.png"
 		}
 	]
 }
