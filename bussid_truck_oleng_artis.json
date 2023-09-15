@@ -426,6 +426,46 @@
 			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Tawakal%203%20Terpal%20Kotak.jpeg",
 			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter3/raw/main/Truck%20Canter%20New%20Tawakal%203%20Terpal%20Kotak.bussidmod",
 			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Tawakal%203%20Terpal%20Kotak.png"
+		},
+		{
+			"id": 51,
+			"category": "Truk 2",
+			"title": "Truck Canter New Wahyu Abadi 2021",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Wahyu%20Abadi%202021.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter3/raw/main/Truck%20Canter%20New%20Wahyu%20Abadi%202021.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Wahyu%20Abadi%202021.png"
+		},
+		{
+			"id": 52,
+			"category": "Truk 2",
+			"title": "Truck Canter New Wahyu Abadi Tanpa Terpal",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Tanpa%20Terpal.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter3/raw/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Tanpa%20Terpal.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Tanpa%20Terpal.png"
+		},
+		{
+			"id": 53,
+			"category": "Truk 2",
+			"title": "Truck Canter New Wahyu Abadi Terpal Gayor",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Terpal%20Gayor.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter3/raw/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Terpal%20Gayor.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Terpal%20Gayor.png"
+		},
+		{
+			"id": 54,
+			"category": "Truk 2",
+			"title": "Truck Canter New Wahyu Abadi Terpal Kotak",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Terpal%20Kotak.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter3/raw/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Terpal%20Kotak.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Terpal%20Kotak.png"
+		},
+		{
+			"id": 55,
+			"category": "Truk 2",
+			"title": "Truck Canter New Wahyu Abadi Terpal Segitiga",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Terpal%20Segitiga.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter3/raw/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Terpal%20Segitiga.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Terpal%20Segitiga.png"
 		}
 	]
 }
