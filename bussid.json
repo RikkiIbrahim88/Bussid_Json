@@ -1391,7 +1391,7 @@
 			"id": 171,
 			"category": "Bis",
 			"title": "Bus Marcopolo Paradiso 1800DD",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis3/main/Bus%20Marcopolo%20Paradiso%201800DD.jpeg",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis3/main/Bus%20Jetline%20SHD%20Hino%20RK8.png",
 			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis3/raw/main/Bus%20Marcopolo%20Paradiso%201800DD.bussidmod",
 			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis3/main/Bus%20Marcopolo%20Paradiso%201800DD.png"
 		},
@@ -1706,6 +1706,86 @@
 			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Unik1/main/Yach%20Deluxe%20by%20Tatui.jpeg",
 			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Unik1/raw/main/Yach%20Deluxe%20by%20Tatui.bussidmod",
 			"link_livery": "null"
+		},
+		{
+			"id": 211,
+			"category": "Bis",
+			"title": "Avante D2 SDD",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis4/main/Avante%20D2%20SDD.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis4/raw/main/Avante%20D2%20SDD.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis4/main/Avante%20D2%20SDD.png"
+		},
+		{
+			"id": 212,
+			"category": "Bis",
+			"title": "Bus New Armada Evonext Gen 2",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis4/main/Bus%20New%20Armada%20Evonext%20Gen%202.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis4/raw/main/Bus%20New%20Armada%20Evonext%20Gen%202.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 213,
+			"category": "Bis",
+			"title": "Bus Trans Jakarta",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis4/main/Bus%20Trans%20Jakarta.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis4/raw/main/Bus%20Trans%20Jakarta.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 214,
+			"category": "Bis",
+			"title": "JB3 O500RS Angga Saputro",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis4/main/JB3%20O500RS%20Angga%20Saputro.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis4/raw/main/JB3%20O500RS%20Angga%20Saputro.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 215,
+			"category": "Bis",
+			"title": "JB3 Pandawa 87 Dream Coach",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis4/main/JB3%20Pandawa%2087%20Dream%20Coach.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis4/raw/main/JB3%20Pandawa%2087%20Dream%20Coach.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis4/main/JB3%20Pandawa%2087%20Dream%20Coach.png"
+		},
+		{
+			"id": 216,
+			"category": "Bis",
+			"title": "JB3 SHD Mercy O500RS Angga Saputro Facelift",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis4/main/JB3%20SHD%20Mercy%20O500RS%20Angga%20Saputro%20Facelift.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis4/raw/main/JB3%20SHD%20Mercy%20O500RS%20Angga%20Saputro%20Facelift.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 217,
+			"category": "Bis",
+			"title": "JB3 SHD Mercy O500RS Angga Saputro Voyager",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis4/main/JB3%20SHD%20Mercy%20O500RS%20Angga%20Saputro%20Voyager.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis4/raw/main/JB3%20SHD%20Mercy%20O500RS%20Angga%20Saputro%20Voyager.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 218,
+			"category": "Bis",
+			"title": "JB3 SHD Setra Angga Saputro Hino RK8",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis4/main/JB3%20SHD%20Setra%20Angga%20Saputro%20Hino%20RK8.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis4/raw/main/JB3%20SHD%20Setra%20Angga%20Saputro%20Hino%20RK8.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 219,
+			"category": "Bis",
+			"title": "Jet X Bus",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis4/main/Jet%20X%20Bus.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis4/raw/main/Jet%20X%20Bus.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 220,
+			"category": "Bis",
+			"title": "Mobil Toyota Hiace",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis4/main/Mobil%20Toyota%20Hiace.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis4/raw/main/Mobil%20Toyota%20Hiace.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis4/main/Mobil%20Toyota%20Hiace.png"
 		}
 	]
 }
