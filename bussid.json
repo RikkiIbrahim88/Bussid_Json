@@ -1470,7 +1470,7 @@
 		{
 			"id": 181,
 			"category": "Truk",
-			"title": "Truck Canter Custom 11 Terpal Segitiga by Budesign.",
+			"title": "Truck Canter Custom 11 Terpal Segitiga by Budesign",
 			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/-Bussid_Truck3/main/Truck%20Canter%20Custom%2011%20Terpal%20Segitiga%20by%20Budesign.jpg",
 			"link_mods": "https://github.com/RikkiIbrahim88/-Bussid_Truck3/raw/main/Truck%20Canter%20Custom%2011%20Terpal%20Segitiga%20by%20Budesign.bussidmod",
 			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/-Bussid_Truck3/main/Truck%20Canter%20Custom%2011%20Terpal%20Segitiga%20by%20Budesign.png"
@@ -1786,6 +1786,86 @@
 			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis4/main/Mobil%20Toyota%20Hiace.jpeg",
 			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Bis4/raw/main/Mobil%20Toyota%20Hiace.bussidmod",
 			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bis4/main/Mobil%20Toyota%20Hiace.png"
+		},
+		{
+			"id": 221,
+			"category": "Truk",
+			"title": "Hummer H2 Damkar cvt MAH Channel",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck4/main/Hummer%20H2%20Damkar%20cvt%20MAH%20Channel.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck4/raw/main/Hummer%20H2%20Damkar%20cvt%20MAH%20Channel.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 222,
+			"category": "Truk",
+			"title": "Truck Canter Box by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck4/main/Truck%20Canter%20Box%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck4/raw/main/Truck%20Canter%20Box%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck4/main/Truck%20Canter%20Box%20by%20Budesign.png"
+		},
+		{
+			"id": 223,
+			"category": "Truk",
+			"title": "Truck Canter HDL Zivanez Team by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck4/main/Truck%20Canter%20HDL%20Zivanez%20Team%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck4/raw/main/Truck%20Canter%20HDL%20Zivanez%20Team%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck4/main/Truck%20Canter%20HDL%20Zivanez%20Team%20by%20Budesign.png"
+		},
+		{
+			"id": 224,
+			"category": "Truk",
+			"title": "Truck Canter Herex SL Jaya Standar by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck4/main/Truck%20Canter%20Herex%20SL%20Jaya%20Standar%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck4/raw/main/Truck%20Canter%20Herex%20SL%20Jaya%20Standar%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck4/main/Truck%20Canter%20Herex%20SL%20Jaya%20Standar%20by%20Budesign.png"
+		},
+		{
+			"id": 225,
+			"category": "Truk",
+			"title": "Truck Canter My Friend BKJ Suspensi Standar by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck4/main/Truck%20Canter%20My%20Friend%20BKJ%20Suspensi%20Standar%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck4/raw/main/Truck%20Canter%20My%20Friend%20BKJ%20Suspensi%20Standar%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck4/main/Truck%20Canter%20My%20Friend%20BKJ%20Suspensi%20Standar%20by%20Budesign.png"
+		},
+		{
+			"id": 226,
+			"category": "Truk",
+			"title": "Truck Isuzu NMR 71 Gayoran by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck4/main/Truck%20Isuzu%20NMR%2071%20Gayoran%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck4/raw/main/Truck%20Isuzu%20NMR%2071%20Gayoran%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck4/main/Truck%20Isuzu%20NMR%2071%20Gayoran%20by%20Budesign.png"
+		},
+		{
+			"id": 227,
+			"category": "Truk",
+			"title": "Truck My Friend BKJ Kontes by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck4/main/Truck%20My%20Friend%20BKJ%20Kontes%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck4/raw/main/Truck%20My%20Friend%20BKJ%20Kontes%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck4/main/Truck%20My%20Friend%20BKJ%20Kontes%20by%20Budesign.png"
+		},
+		{
+			"id": 228,
+			"category": "Truk",
+			"title": "Truck NMR71 Zahra By Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck4/main/Truck%20NMR71%20Zahra%20By%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck4/raw/main/Truck%20NMR71%20Zahra%20By%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck4/main/Truck%20NMR71%20Zahra%20By%20Budesign.png"
+		},
+		{
+			"id": 229,
+			"category": "Truk",
+			"title": "Truck Ragasa V3 by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck4/main/Truck%20Ragasa%20V3%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck4/raw/main/Truck%20Ragasa%20V3%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck4/main/Truck%20Ragasa%20V3%20by%20Budesign.png"
+		},
+		{
+			"id": 230,
+			"category": "Truk",
+			"title": "Truk Volvo FM IceBox cvt Hanzoo Mod",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck4/main/Truk%20Volvo%20FM%20IceBox%20cvt%20Hanzoo%20Mod.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck4/raw/main/Truk%20Volvo%20FM%20IceBox%20cvt%20Hanzoo%20Mod.bussidmod",
+			"link_livery": "null"
 		}
 	]
 }
