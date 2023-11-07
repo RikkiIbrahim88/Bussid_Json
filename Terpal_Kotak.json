@@ -123,6 +123,54 @@
       "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak2/main/Truck%20Canter%20Sujama%20Malika.jpg",
       "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalKotak2/raw/main/Truck%20Canter%20Sujama%20Malika.bussidmod",
       "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak2/main/Truck%20Canter%20Sujama%20Malika.png"
+    },
+    {
+      "id": 13,
+      "category":"Gayor",
+      "title":"Canter Mas Boss Terpal Gayor",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalGayor/main/Canter%20Mas%20Boss%20Terpal%20Gayor.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalGayor/raw/main/Canter%20Mas%20Boss%20Terpal%20Gayor.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalGayor/main/Canter%20Mas%20Boss%20Terpal%20Gayor.png"
+    } ,
+    {
+      "id": 14,
+      "category":"Gayor",
+      "title":"Canter New Akeloy Terpal Gayor",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalGayor/main/Canter%20New%20Akeloy%20Terpal%20Gayor.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalGayor/raw/main/Canter%20New%20Akeloy%20Terpal%20Gayor.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalGayor/main/Canter%20New%20Akeloy%20Terpal%20Gayor.png"
+    },
+    {
+      "id": 15,
+      "category":"Kotak 2",
+      "title":"Canter New Selinda Terpal Gayor",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalGayor/main/Canter%20New%20Selinda%20Terpal%20Gayor.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalGayor/raw/main/Canter%20New%20Selinda%20Terpal%20Gayor.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalGayor/main/Canter%20New%20Selinda%20Terpal%20Gayor.png"
+    } ,
+    {
+      "id": 16,
+      "category":"Kotak 2",
+      "title":"Canter New Tawakal 3 Terpal Gayor",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalGayor/main/Canter%20New%20Tawakal%203%20Terpal%20Gayor.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalGayor/raw/main/Canter%20New%20Tawakal%203%20Terpal%20Gayor.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalGayor/main/Canter%20New%20Tawakal%203%20Terpal%20Gayor.png"
+    },
+    {
+      "id": 17,
+      "category":"Gayor",
+      "title":"Canter New Wahyu Abadi Terpal Gayor",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalGayor/main/Canter%20New%20Wahyu%20Abadi%20Terpal%20Gayor.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalGayor/raw/main/Canter%20New%20Wahyu%20Abadi%20Terpal%20Gayor.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalGayor/main/Canter%20New%20Wahyu%20Abadi%20Terpal%20Gayor.png"
+    } ,
+    {
+      "id": 18,
+      "category":"Gayor",
+      "title":"Canter Prabu Ice Blue Style Terpal Gayor",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalGayor/main/Canter%20Prabu%20Ice%20Blue%20Style%20Terpal%20Gayor.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalGayor/raw/main/Canter%20Prabu%20Ice%20Blue%20Style%20Terpal%20Gayor.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalGayor/main/Canter%20Prabu%20Ice%20Blue%20Style%20Terpal%20Gayor.png"
     }
   ]
 }
