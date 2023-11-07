@@ -51,8 +51,7 @@
       "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak1/main/Canter%20New%20Tawakal%203%20Terpal%20Kotak.jpeg",
       "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalKotak1/raw/main/Canter%20New%20Tawakal%203%20Terpal%20Kotak.bussidmod",
       "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak1/main/Canter%20New%20Tawakal%203%20Terpal%20Kotak.png"
-    }
-  ,
+    },
     {
       "id": 4,
       "category":"Kotak 1",
@@ -92,6 +91,38 @@
       "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak1/main/Truck%20Canter%20Trondol%20Terpal%20Kotak.jpg",
       "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalKotak1/raw/main/Truck%20Canter%20Trondol%20Terpal%20Kotak.bussidmod",
       "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak1/main/Truck%20Canter%20Trondol%20Terpal%20Kotak.png"
+    },
+    {
+      "id": 9,
+      "category":"Kotak 2",
+      "title":"Canter Bandar Susu Terpal Kotak",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak2/main/Canter%20Bandar%20Susu%20Terpal%20Kotak.jpg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalKotak2/raw/main/Canter%20Bandar%20Susu%20Terpal%20Kotak.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak2/main/Canter%20Bandar%20Susu%20Terpal%20Kotak.png"
+    },
+    {
+      "id": 10,
+      "category":"Kotak 2",
+      "title":"Canter Special Sinam Terpal Kotak",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak2/main/Canter%20Special%20Sinam%20Terpal%20Kotak.jpg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalKotak2/raw/main/Canter%20Special%20Sinam%20Terpal%20Kotak.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 11,
+      "category":"Kotak 2",
+      "title":"Truck Canter NMR JSK Concept Star Light",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak2/main/Truck%20Canter%20NMR%20JSK%20Concept%20Star%20Light.jpg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalKotak2/raw/main/Truck%20Canter%20NMR%20JSK%20Concept%20Star%20Light.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak2/main/Truck%20Canter%20NMR%20JSK%20Concept%20Star%20Light.png"
+    } ,
+    {
+      "id": 12,
+      "category":"Kotak 2",
+      "title":"Truck Canter Sujama Malika",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak2/main/Truck%20Canter%20Sujama%20Malika.jpg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalKotak2/raw/main/Truck%20Canter%20Sujama%20Malika.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak2/main/Truck%20Canter%20Sujama%20Malika.png"
     }
   ]
 }
