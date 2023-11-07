@@ -187,6 +187,54 @@
       "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalSegitiga/main/Canter%20New%20Akeloy%20Terpal%20Segitiga.jpeg",
       "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalSegitiga/raw/main/Canter%20New%20Akeloy%20Terpal%20Segitiga.bussidmod",
       "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalSegitiga/main/Canter%20New%20Akeloy%20Terpal%20Segitiga.png"
+    },
+    {
+      "id": 21,
+      "category":"Segitiga",
+      "title":"Canter New Selinda Terpal Segitiga",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalSegitiga/main/Canter%20New%20Selinda%20Terpal%20Segitiga.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalSegitiga/raw/main/Canter%20New%20Selinda%20Terpal%20Segitiga.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalSegitiga/main/Canter%20New%20Selinda%20Terpal%20Segitiga.png"
+    } ,
+    {
+      "id": 22,
+      "category":"Segitiga",
+      "title":"Canter New Tawakal 3 Terpal Segitiga",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalSegitiga/main/Canter%20New%20Tawakal%203%20Terpal%20Segitiga.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalSegitiga/raw/main/Canter%20New%20Tawakal%203%20Terpal%20Segitiga.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalSegitiga/main/Canter%20New%20Tawakal%203%20Terpal%20Segitiga.png"
+    },
+    {
+      "id": 23,
+      "category":"Segitiga",
+      "title":"Canter New Wahyu Abadi Terpal Segitiga",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalSegitiga/main/Canter%20New%20Wahyu%20Abadi%20Terpal%20Segitiga.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalSegitiga/raw/main/Canter%20New%20Wahyu%20Abadi%20Terpal%20Segitiga.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalSegitiga/main/Canter%20New%20Wahyu%20Abadi%20Terpal%20Segitiga.png"
+    } ,
+    {
+      "id": 24,
+      "category":"Segitiga",
+      "title":"Canter Prabu Ice Blue Style Terpal Segitiga",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalSegitiga/main/Canter%20Prabu%20Ice%20Blue%20Style%20Terpal%20Segitiga.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalSegitiga/raw/main/Canter%20Prabu%20Ice%20Blue%20Style%20Terpal%20Segitiga.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalSegitiga/main/Canter%20Prabu%20Ice%20Blue%20Style%20Terpal%20Segitiga.png"
+    },
+    {
+      "id": 25,
+      "category":"Segitiga",
+      "title":"Canter Sumber MakmurTerpal Segitiga",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalSegitiga/main/Canter%20Sumber%20MakmurTerpal%20Segitiga.jpg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalSegitiga/raw/main/Canter%20Sumber%20MakmurTerpal%20Segitiga.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalSegitiga/main/Canter%20Sumber%20MakmurTerpal%20Segitiga.png"
+    } ,
+    {
+      "id": 26,
+      "category":"Segitiga",
+      "title":"Truck Canter Trondol Terpal Segitiga",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalSegitiga/main/Truck%20Canter%20Trondol%20Terpal%20Segitiga.jpg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalSegitiga/raw/main/Truck%20Canter%20Trondol%20Terpal%20Segitiga.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalSegitiga/main/Truck%20Canter%20Trondol%20Terpal%20Segitiga.png"
     }
   ]
 }
