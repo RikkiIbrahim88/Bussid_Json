@@ -76,6 +76,22 @@
       "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak1/main/Sumber%20Makmur%20Terpal%20Kotak.jpg",
       "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalKotak1/raw/main/Sumber%20Makmur%20Terpal%20Kotak.bussidmod",
       "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak1/main/Sumber%20Makmur%20Terpal%20Kotak.png"
+    },
+    {
+      "id": 7,
+      "category":"Kotak 1",
+      "title":"Truck Canter New Selinda Terpal Kotak",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak1/main/Truck%20Canter%20New%20Selinda%20Terpal%20Kotak.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalKotak1/raw/main/Truck%20Canter%20New%20Selinda%20Terpal%20Kotak.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak1/main/Truck%20Canter%20New%20Selinda%20Terpal%20Kotak.png"
+    },
+    {
+      "id": 8,
+      "category":"Kotak 1",
+      "title":"Truck Canter Trondol Terpal Kotak",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak1/main/Truck%20Canter%20Trondol%20Terpal%20Kotak.jpg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalKotak1/raw/main/Truck%20Canter%20Trondol%20Terpal%20Kotak.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak1/main/Truck%20Canter%20Trondol%20Terpal%20Kotak.png"
     }
   ]
 }
