@@ -235,6 +235,78 @@
       "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalSegitiga/main/Truck%20Canter%20Trondol%20Terpal%20Segitiga.jpg",
       "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalSegitiga/raw/main/Truck%20Canter%20Trondol%20Terpal%20Segitiga.bussidmod",
       "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalSegitiga/main/Truck%20Canter%20Trondol%20Terpal%20Segitiga.png"
+    },
+    {
+      "id": 27,
+      "category":"Unik",
+      "title":"Kereta Rel Listrik Trem",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Unik/main/Kereta%20Rel%20Listrik%20Trem.jpg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Unik/raw/main/Kereta%20Rel%20Listrik%20Trem.bussidmod",
+      "link_livery":"null"
+    } ,
+    {
+      "id": 28,
+      "category":"Unik",
+      "title":"Leopard 2A4",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Unik/main/Leopard%202A4.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Unik/raw/main/Leopard%202A4.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 29,
+      "category":"Unik",
+      "title":"Pesawat Tupolev Tu-160",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Unik/main/Pesawat%20Tupolev%20Tu-160.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Unik/raw/main/Pesawat%20Tupolev%20Tu-160.bussidmod",
+      "link_livery":"null"
+    } ,
+    {
+      "id": 30,
+      "category":"Unik",
+      "title":"Sepeda Balap",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Unik/main/Sepeda%20Balap.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Unik/raw/main/Sepeda%20Balap.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 31,
+      "category":"Unik",
+      "title":"Topol M by PS Pioner",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Unik/main/Topol%20M%20by%20PS%20Pioner.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Unik/raw/main/Topol%20M%20by%20PS%20Pioner.bussidmod",
+      "link_livery":"null"
+    } ,
+    {
+      "id": 32,
+      "category":"Unik",
+      "title":"UFO (Unidentified Flying Object)",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Unik/main/UFO%20(Unidentified%20Flying%20Object.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Unik/raw/main/UFO%20(Unidentified%20Flying%20Object.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 33,
+      "category":"Unik",
+      "title":"MOTOR GEROBAK BAKSO",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Unik1/main/MOTOR%20GEROBAK%20BAKSO.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Unik1/raw/main/MOTOR%20GEROBAK%20BAKSO.bussidmod",
+      "link_livery":"null"
+    } ,
+    {
+      "id": 34,
+      "category":"Unik",
+      "title":"Mercedes Benz Daimler 1886",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Unik1/main/Mercedes%20Benz%20Daimler%201886%20cvt%20Hanzoo%20Mod.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Unik1/raw/main/Mercedes%20Benz%20Daimler%201886%20cvt%20Hanzoo%20Mod.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 35,
+      "category":"Unik",
+      "title":"Yach Deluxe by Tatui",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Unik1/main/Yach%20Deluxe%20by%20Tatui.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Unik1/raw/main/Yach%20Deluxe%20by%20Tatui.bussidmod",
+      "link_livery":"null"
     }
   ]
 }
