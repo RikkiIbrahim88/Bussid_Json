@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "main_ads_natives":"",
@@ -14,7 +14,7 @@
       "open_ads_admob":"",
       "open_ads_alien":"",
       "open_ads_max" :"",
-      "interval_intertitial": 5,
+      "interval_intertitial": 0,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -30,52 +30,52 @@
   [
     {
       "id": 1,
-      "category":"Bis",
-      "title":"Harapan Jaya",
-      "image":"file:///android_asset/bus.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
+      "category":"Kotak 1",
+      "title":"Canter Mas Boss Terpal Kotak",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak1/main/Canter%20Mas%20Boss%20Terpal%20Kotak.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalKotak1/raw/main/Canter%20Mas%20Boss%20Terpal%20Kotak.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak1/main/Canter%20Mas%20Boss%20Terpal%20Kotak.png"
     },
     {
       "id": 2,
-      "category":"Bis",
-      "title":"Livery Zentrum JB2 SHD",
-      "image":"https://aliendro.id/uploads/busid/MOD-BUSSID-JB2-SHD.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
-      "link_livery":"null"
+      "category":"Kotak 1",
+      "title":"Canter New Akeloy Terpal Kotak",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak1/main/Canter%20New%20Akeloy%20Terpal%20Kotak.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalKotak1/raw/main/Canter%20New%20Akeloy%20Terpal%20Kotak.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak1/main/Canter%20New%20Akeloy%20Terpal%20Kotak.png"
     },
     {
       "id": 3,
-      "category":"Bis",
-      "title":"Bus Telolet",
-      "image":"file:///android_asset/bus3.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
-      "link_livery":"null"
+      "category":"Kotak 1",
+      "title":"Canter New Tawakal 3 Terpal Kotak",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak1/main/Canter%20New%20Tawakal%203%20Terpal%20Kotak.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalKotak1/raw/main/Canter%20New%20Tawakal%203%20Terpal%20Kotak.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak1/main/Canter%20New%20Tawakal%203%20Terpal%20Kotak.png"
     }
   ,
     {
       "id": 4,
-      "category":"Truk",
-      "title":"Truck UD Quester Bak Muat Kayu",
-      "image":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
+      "category":"Kotak 1",
+      "title":"Canter New Wahyu Abadi Terpal Kotak",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak1/main/Canter%20New%20Wahyu%20Abadi%20Terpal%20Kotak.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalKotak1/raw/main/Canter%20New%20Wahyu%20Abadi%20Terpal%20Kotak.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak1/main/Canter%20New%20Wahyu%20Abadi%20Terpal%20Kotak.png"
     } ,
     {
       "id": 5,
-      "category":"Mobil",
-      "title":"Jaguar XE SV Project 8",
-      "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
-      "link_livery":"null"
+      "category":"Kotak 1",
+      "title":"Canter Prabu Ice Blue Style Terpal Kotak",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak1/main/Canter%20Prabu%20Ice%20Blue%20Style%20Terpal%20Kotak.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalKotak1/raw/main/Canter%20Prabu%20Ice%20Blue%20Style%20Terpal%20Kotak.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak1/main/Canter%20Prabu%20Ice%20Blue%20Style%20Terpal%20Kotak.png"
     },
     {
       "id": 6,
-      "category":"Truk",
-      "title":"Truck Oleng",
-      "image":"file:///android_asset/truck.webp",
-      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
+      "category":"Kotak 1",
+      "title":"Sumber Makmur Terpal Kotak",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak1/main/Sumber%20Makmur%20Terpal%20Kotak.jpg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalKotak1/raw/main/Sumber%20Makmur%20Terpal%20Kotak.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalKotak1/main/Sumber%20Makmur%20Terpal%20Kotak.png"
     }
   ]
 }
