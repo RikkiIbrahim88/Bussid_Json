@@ -171,6 +171,22 @@
       "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalGayor/main/Canter%20Prabu%20Ice%20Blue%20Style%20Terpal%20Gayor.jpeg",
       "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalGayor/raw/main/Canter%20Prabu%20Ice%20Blue%20Style%20Terpal%20Gayor.bussidmod",
       "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalGayor/main/Canter%20Prabu%20Ice%20Blue%20Style%20Terpal%20Gayor.png"
+    },
+    {
+      "id": 19,
+      "category":"Segitiga",
+      "title":"Canter Mas Boss Terpal Segitiga",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalSegitiga/main/Canter%20Mas%20Boss%20Terpal%20Segitiga.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalSegitiga/raw/main/Canter%20Mas%20Boss%20Terpal%20Segitiga.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalSegitiga/main/Canter%20Mas%20Boss%20Terpal%20Segitiga.png"
+    } ,
+    {
+      "id": 20,
+      "category":"Segitiga",
+      "title":"Canter New Akeloy Terpal Segitiga",
+      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalSegitiga/main/Canter%20New%20Akeloy%20Terpal%20Segitiga.jpeg",
+      "link_mods":"https://github.com/RikkiIbrahim88/TrukTerpalSegitiga/raw/main/Canter%20New%20Akeloy%20Terpal%20Segitiga.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/TrukTerpalSegitiga/main/Canter%20New%20Akeloy%20Terpal%20Segitiga.png"
     }
   ]
 }
