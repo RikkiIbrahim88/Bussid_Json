@@ -29,53 +29,124 @@
    "DATA":
   [
     {
-      "id": 1,
-      "category":"Bis",
-      "title":"Harapan Jaya",
-      "image":"file:///android_asset/bus.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
-    },
-    {
-      "id": 2,
-      "category":"Bis",
-      "title":"Livery Zentrum JB2 SHD",
-      "image":"https://aliendro.id/uploads/busid/MOD-BUSSID-JB2-SHD.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 3,
-      "category":"Bis",
-      "title":"Bus Telolet",
-      "image":"file:///android_asset/bus3.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
-      "link_livery":"null"
-    }
-  ,
-    {
-      "id": 4,
-      "category":"Truk",
-      "title":"Truck UD Quester Bak Muat Kayu",
-      "image":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
-    } ,
-    {
-      "id": 5,
-      "category":"Mobil",
-      "title":"Jaguar XE SV Project 8",
-      "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
-      "link_livery":"null"
-    },
-    {
-      "id": 6,
-      "category":"Truk",
-      "title":"Truck Oleng",
-      "image":"file:///android_asset/truck.webp",
-      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
-    }
+			"id": 1,
+			"category": "Truk 1",
+			"title": "Canter Dump Antobollo Sawit",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Canter%20Dump%20Antobollo%20Sawit.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/TruckSawit/raw/main/Canter%20Dump%20Antobollo%20Sawit.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Canter%20Dump%20Antobollo%20Sawit.png"
+		},
+		{
+			"id": 2,
+			"category": "Truk 1",
+			"title": "Canter Dump Bawa Sawit Gayor",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Canter%20Dump%20Bawa%20Sawit%20Gayor.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/TruckSawit/raw/main/Canter%20Dump%20Bawa%20Sawit%20Gayor.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 3,
+			"category": "Truk 1",
+			"title": "Canter Style Kalimantan Muat Sawit",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Canter%20Style%20Kalimantan%20Muat%20Sawit.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/TruckSawit/raw/main/Canter%20Style%20Kalimantan%20Muat%20Sawit.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Canter%20Style%20Kalimantan%20Muat%20Sawit.png"
+		},
+		{
+			"id": 4,
+			"category": "Truk 1",
+			"title": "Hino 500 C24 Muatan Sawit",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Hino%20500%20C24%20Muatan%20Sawit.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/TruckSawit/raw/main/Hino%20500%20C24%20Muatan%20Sawit.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Hino%20500%20C24%20Muatan%20Sawit.png"
+		},
+		{
+			"id": 5,
+			"category": "Truk 1",
+			"title": "Hino Dutro Bawa Sawit",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Hino%20Dutro%20Bawa%20Sawit.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/TruckSawit/raw/main/Hino%20Dutro%20Bawa%20Sawit.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Hino%20Dutro%20Bawa%20Sawit.png"
+		},
+		{
+			"id": 6,
+			"category": "Truk 2",
+			"title": "Mitsubishi Canter Bak Muat Sawit",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Mitsubishi%20Canter%20Bak%20Muat%20Sawit.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/TruckSawit/raw/main/Mitsubishi%20Canter%20Bak%20Muat%20Sawit.bussidvehicle",
+			"link_livery": "null"
+		},
+		{
+			"id": 7,
+			"category": "Truk 2",
+			"title": "Ragasa Dump Sawit Terpal Gayor",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Ragasa%20Dump%20Sawit%20Terpal%20Gayor.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/TruckSawit/raw/main/Ragasa%20Dump%20Sawit%20Terpal%20Gayor.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 8,
+			"category": "Truk 2",
+			"title": "Truck Canter Custom 03 Dump Sawit",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Truck%20Canter%20Custom%2003%20Dump%20Sawit.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/TruckSawit/raw/main/Truck%20Canter%20Custom%2003%20Dump%20Sawit.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Truck%20Canter%20Custom%2003%20Dump%20Sawit.png"
+		},
+		{
+			"id": 9,
+			"category": "Truk 2",
+			"title": "Truck Fuso Fighter Muat Buah Sawit",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Truck%20Fuso%20Fighter%20Muat%20Buah%20Sawit.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/TruckSawit/raw/main/Truck%20Fuso%20Fighter%20Muat%20Buah%20Sawit.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 10,
+			"category": "Truk 2",
+			"title": "Truck Giga NMR Modern Style Muatan Sawit",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Truck%20Giga%20NMR%20Modern%20Style%20Muatan%20Sawit.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/TruckSawit/raw/main/Truck%20Giga%20NMR%20Modern%20Style%20Muatan%20Sawit.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Truck%20Giga%20NMR%20Modern%20Style%20Muatan%20Sawit.png"
+		},
+		{
+			"id": 11,
+			"category": "Truk 3",
+			"title": "Truck Hino Dump Full Sawit",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Truck%20Hino%20Dump%20Full%20Sawit.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/TruckSawit/raw/main/Truck%20Hino%20Dump%20Full%20Sawit.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Truck%20Hino%20Dump%20Full%20Sawit.png"
+		},
+		{
+			"id": 12,
+			"category": "Truk 3",
+			"title": "Truck Isuzu NKR 71 Bawa Sawit",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Truck%20Isuzu%20NKR%2071%20Bawa%20Sawit.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/TruckSawit/raw/main/Truck%20Isuzu%20NKR%2071%20Bawa%20Sawit.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 13,
+			"category": "Truk 3",
+			"title": "Truk Canter Bos Moeda Muatan Sawit",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Truk%20Canter%20Bos%20Moeda%20Muatan%20Sawit.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/TruckSawit/raw/main/Truk%20Canter%20Bos%20Moeda%20Muatan%20Sawit.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Truk%20Canter%20Bos%20Moeda%20Muatan%20Sawit.png"
+		},
+		{
+			"id": 14,
+			"category": "Truk 3",
+			"title": "Truk Hino 500 Bak Sawit",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Truk%20Hino%20500%20Bak%20Sawit.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/TruckSawit/raw/main/Truk%20Hino%20500%20Bak%20Sawit.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Truk%20Hino%20500%20Bak%20Sawit.png"
+		},
+		{
+			"id": 15,
+			"category": "Truk 3",
+			"title": "Truk Hino Muat Sawit Overload",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Truk%20Hino%20Muat%20Sawit%20Overload.webp",
+			"link_mods": "https://github.com/RikkiIbrahim88/TruckSawit/raw/main/Truk%20Hino%20Muat%20Sawit%20Overload.bussidmod",
+			"link_livery": "null"
+		}
   ]
 }
