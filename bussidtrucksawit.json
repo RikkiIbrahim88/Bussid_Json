@@ -147,6 +147,358 @@
 			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/TruckSawit/main/Truk%20Hino%20Muat%20Sawit%20Overload.webp",
 			"link_mods": "https://github.com/RikkiIbrahim88/TruckSawit/raw/main/Truk%20Hino%20Muat%20Sawit%20Overload.bussidmod",
 			"link_livery": "null"
+		},
+		{
+			"id": 16,
+			"category": "Truk 4",
+			"title": "Truck Canter Trondol Terpal Kotak by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Trondol%20Terpal%20Kotak%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Trondol%20Terpal%20Kotak%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Trondol%20Terpal%20Kotak%20by%20Budesign.png"
+		},
+		{
+			"id": 17,
+			"category": "Truk 4",
+			"title": "Truck Canter Trondol Terpal Segitiga by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Trondol%20Terpal%20Segitiga%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Trondol%20Terpal%20Segitiga%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Trondol%20Terpal%20Segitiga%20by%20Budesign.png"
+		},
+		{
+			"id": 18,
+			"category": "Truk 4",
+			"title": "Truck My Friend BKJ Kontes by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20My%20Friend%20BKJ%20Kontes%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20My%20Friend%20BKJ%20Kontes%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20My%20Friend%20BKJ%20Kontes%20by%20Budesign.png"
+		},
+		{
+			"id": 19,
+			"category": "Truk 4",
+			"title": "Truck Canter Ayam Custom by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Ayam%20Custom%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Ayam%20Custom%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Ayam%20Custom%20by%20Budesign.png"
+		},
+		{
+			"id": 20,
+			"category": "Truk 4",
+			"title": "Truck Canter Box by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Box%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Box%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Box%20by%20Budesign.png"
+		},
+		{
+			"id": 21,
+			"category": "Unik",
+			"title":"Kereta Rel Listrik Trem",
+		  "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Unik/main/Kereta%20Rel%20Listrik%20Trem.jpg",
+		  "link_mods":"https://github.com/RikkiIbrahim88/Unik/raw/main/Kereta%20Rel%20Listrik%20Trem.bussidmod",
+		  "link_livery":"null"
+		},
+		{
+			"id": 22,
+			"category":"Unik",
+		  "title":"Leopard 2A4",
+		  "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Unik/main/Leopard%202A4.jpeg",
+		  "link_mods":"https://github.com/RikkiIbrahim88/Unik/raw/main/Leopard%202A4.bussidmod",
+		  "link_livery":"null"
+		},
+		{
+			"id": 23,
+			"category":"Unik",
+		  "title":"Pesawat Tupolev Tu-160",
+		  "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Unik/main/Pesawat%20Tupolev%20Tu-160.jpeg",
+		  "link_mods":"https://github.com/RikkiIbrahim88/Unik/raw/main/Pesawat%20Tupolev%20Tu-160.bussidmod",
+		  "link_livery":"null"
+		},
+		{
+			"id": 24,
+			"category":"Unik",
+		  "title":"Sepeda Balap",
+		  "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Unik/main/Sepeda%20Balap.jpeg",
+		  "link_mods":"https://github.com/RikkiIbrahim88/Unik/raw/main/Sepeda%20Balap.bussidmod",
+		  "link_livery":"null"
+		},
+		{
+			"id": 25,
+			"category":"Unik",
+		  "title":"Topol M by PS Pioner",
+		  "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Unik/main/Topol%20M%20by%20PS%20Pioner.jpeg",
+		  "link_mods":"https://github.com/RikkiIbrahim88/Unik/raw/main/Topol%20M%20by%20PS%20Pioner.bussidmod",
+		  "link_livery":"null"
+		},
+		{
+			"id": 26,
+			"category": "Truk 1",
+			"title": "Truck Cante Samudra Nusantara",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Cante%20Samudra%20Nusantara.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Cante%20Samudra%20Nusantara.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Cante%20Samudra%20Nusantara.png"
+		},
+		{
+			"id": 27,
+			"category": "Truk 1",
+			"title": "Truck Canter 010 Full Box Mbois",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20010%20Full%20Box%20Mbois.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20010%20Full%20Box%20Mbois.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20010%20Full%20Box%20Mbois.png"
+		},
+		{
+			"id": 28,
+			"category": "Truk 1",
+			"title": "Truck Canter Ayam Bodykit Samudra Nusantara",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Ayam%20Bodykit%20Samudra%20Nusantara.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20Ayam%20Bodykit%20Samudra%20Nusantara.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Ayam%20Bodykit%20Samudra%20Nusantara.png"
+		},
+		{
+			"id": 29,
+			"category": "Truk 1",
+			"title": "Truck Canter Ayam Immanuel",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Ayam%20Immanuel.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20Ayam%20Immanuel.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Ayam%20Immanuel.png"
+		},
+		{
+			"id": 30,
+			"category": "Truk 1",
+			"title": "Truck Canter Black Team Fauzi Ardant by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Black%20Team%20Fauzi%20Ardant%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20Black%20Team%20Fauzi%20Ardant%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Black%20Team%20Fauzi%20Ardant%20by%20Budesign.png"
+		},
+		{
+			"id": 31,
+			"category": "Truk 2",
+			"title": "Truck Canter Box Kardus Balap",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Box%20Kardus%20Balap.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20Box%20Kardus%20Balap.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Box%20Kardus%20Balap.png"
+		},
+		{
+			"id": 32,
+			"category": "Truk 2",
+			"title": "Truck Canter Box New Tam Cargo",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Box%20New%20Tam%20Cargo.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20Box%20New%20Tam%20Cargo.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Box%20New%20Tam%20Cargo.png"
+		},
+		{
+			"id": 33,
+			"category": "Truk 2",
+			"title": "Truck Canter Giga Restu Bunda",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Giga%20Restu%20Bunda.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20Giga%20Restu%20Bunda.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Giga%20Restu%20Bunda.png"
+		},
+		{
+			"id": 34,
+			"category": "Truk 2",
+			"title": "Truck Canter HM One By One",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20HM%20One%20By%20One.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20HM%20One%20By%20One.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20HM%20One%20By%20One.png"
+		},
+		{
+			"id": 35,
+			"category": "Truk 2",
+			"title": "Truck Canter Madura Express by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Madura%20Express%20by%20Budesign.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20Madura%20Express%20by%20Budesign.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Madura%20Express%20by%20Budesign.png"
+		},
+		{
+			"id": 36,
+			"category": "Truk 3",
+			"title": "Truck Canter NKR Tebu Racing",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20NKR%20Tebu%20Racing.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20NKR%20Tebu%20Racing.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20NKR%20Tebu%20Racing.png"
+		},
+		{
+			"id": 37,
+			"category": "Truk 3",
+			"title": "Truck Canter NMR JSK Concept Star Light",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20NMR%20JSK%20Concept%20Star%20Light.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20NMR%20JSK%20Concept%20Star%20Light.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20NMR%20JSK%20Concept%20Star%20Light.png"
+		},
+		{
+			"id": 38,
+			"category": "Truk 3",
+			"title": "Truck Canter New BKJ Kolor Ijo",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20New%20BKJ%20Kolor%20Ijo.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20New%20BKJ%20Kolor%20Ijo.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20New%20BKJ%20Kolor%20Ijo.png"
+		},
+		{
+			"id": 39,
+			"category": "Truk 3",
+			"title": "Truck Canter New Kanjeng Mami",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20New%20Kanjeng%20Mami.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20New%20Kanjeng%20Mami.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20New%20Kanjeng%20Mami.png"
+		},
+		{
+			"id": 40,
+			"category": "Truk 3",
+			"title": "Truck Canter New Madura Asyik Handling Drift by Budesign",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20New%20Madura%20Asyik%20Handling%20Drift%20by%20Budesign.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20New%20Madura%20Asyik%20Handling%20Drift%20by%20Budesign.bussidmod",
+			"link_livery": "null"
+		},
+		{
+			"id": 41,
+			"category": "Truk 4",
+			"title": "Truck Canter New Wahyu Abadi Bumper M18",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Bumper%20M18.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Bumper%20M18.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Bumper%20M18.png"
+		},
+		{
+			"id": 42,
+			"category": "Truk 4",
+			"title": "Truck Canter Public Figure",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Public%20Figure.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20Public%20Figure.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Public%20Figure.png"
+		},
+		{
+			"id": 43,
+			"category": "Truk 4",
+			"title": "Truck Canter Republik Gabah",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Republik%20Gabah.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20Republik%20Gabah.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Republik%20Gabah.png"
+		},
+		{
+			"id": 44,
+			"category": "Truk 4",
+			"title": "Truck Canter Sang Perintis",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Sang%20Perintis.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20Sang%20Perintis.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Sang%20Perintis.png"
+		},
+		{
+			"id": 45,
+			"category": "Truk 4",
+			"title": "Truck Canter Sujama Malika",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Sujama%20Malika.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20Sujama%20Malika.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Sujama%20Malika.png"
+		},
+		{
+			"id": 46,
+			"category": "Truk 1",
+			"title": "Truck Canter Ayam Maulana Expedition",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20Ayam%20Maulana%20%20Expedition.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter3/raw/main/Truck%20Canter%20Ayam%20Maulana%20%20Expedition.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20Ayam%20Maulana%20%20Expedition.png"
+		},
+		{
+			"id": 47,
+			"category": "Truk 1",
+			"title": "Truck Canter Black Team Giga Merah",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20Black%20Team%20Giga%20Merah.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter3/raw/main/Truck%20Canter%20Black%20Team%20Giga%20Merah.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20Black%20Team%20Giga%20Merah.png"
+		},
+		{
+			"id": 48,
+			"category": "Truk 1",
+			"title": "Truck Canter New Tawakal 3 Tanpa Terpal",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Tawakal%203%20Tanpa%20Terpal.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter3/raw/main/Truck%20Canter%20New%20Tawakal%203%20Tanpa%20Terpal.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Tawakal%203%20Tanpa%20Terpal.png"
+		},
+		{
+			"id": 49,
+			"category": "Truk 1",
+			"title": "Truck Canter New Tawakal 3 Terpal Gayor",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Tawakal%203%20Tanpa%20Terpal.png",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter3/raw/main/Truck%20Canter%20New%20Tawakal%203%20Terpal%20Gayor.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Tawakal%203%20Terpal%20Gayor.png"
+		},
+		{
+			"id": 50,
+			"category": "Truk 1",
+			"title": "Truck Canter New Tawakal 3 Terpal Kotak.",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Tawakal%203%20Terpal%20Kotak.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter3/raw/main/Truck%20Canter%20New%20Tawakal%203%20Terpal%20Kotak.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Tawakal%203%20Terpal%20Kotak.png"
+		},
+		{
+			"id": 51,
+			"category": "Truk 2",
+			"title": "Truck Canter New Wahyu Abadi 2021",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Wahyu%20Abadi%202021.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter3/raw/main/Truck%20Canter%20New%20Wahyu%20Abadi%202021.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Wahyu%20Abadi%202021.png"
+		},
+		{
+			"id": 52,
+			"category": "Truk 2",
+			"title": "Truck Canter New Wahyu Abadi Tanpa Terpal",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Tanpa%20Terpal.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter3/raw/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Tanpa%20Terpal.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Tanpa%20Terpal.png"
+		},
+		{
+			"id": 53,
+			"category": "Truk 2",
+			"title": "Truck Canter New Wahyu Abadi Terpal Gayor",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Terpal%20Gayor.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter3/raw/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Terpal%20Gayor.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Terpal%20Gayor.png"
+		},
+		{
+			"id": 54,
+			"category": "Truk 2",
+			"title": "Truck Canter New Wahyu Abadi Terpal Kotak",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Terpal%20Kotak.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter3/raw/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Terpal%20Kotak.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Terpal%20Kotak.png"
+		},
+		{
+			"id": 55,
+			"category": "Truk 2",
+			"title": "Truck Canter New Wahyu Abadi Terpal Segitiga",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Terpal%20Segitiga.jpeg",
+			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter3/raw/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Terpal%20Segitiga.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter3/main/Truck%20Canter%20New%20Wahyu%20Abadi%20Terpal%20Segitiga.png"
+		},
+		{
+		  "id": 56,
+		  "category":"Unik",
+		  "title":"UFO (Unidentified Flying Object)",
+		  "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Unik/main/UFO%20(Unidentified%20Flying%20Object.jpeg",
+		  "link_mods":"https://github.com/RikkiIbrahim88/Unik/raw/main/UFO%20(Unidentified%20Flying%20Object.bussidmod",
+		  "link_livery":"null"
+		},
+		{
+		  "id": 57,
+		  "category":"Unik",
+		  "title":"MOTOR GEROBAK BAKSO",
+		  "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Unik1/main/MOTOR%20GEROBAK%20BAKSO.jpeg",
+		  "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Unik1/raw/main/MOTOR%20GEROBAK%20BAKSO.bussidmod",
+		  "link_livery":"null"
+		} ,
+		{
+		  "id": 58,
+		  "category":"Unik",
+		  "title":"Mercedes Benz Daimler 1886",
+		  "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Unik1/main/Mercedes%20Benz%20Daimler%201886%20cvt%20Hanzoo%20Mod.jpeg",
+		  "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Unik1/raw/main/Mercedes%20Benz%20Daimler%201886%20cvt%20Hanzoo%20Mod.bussidmod",
+		  "link_livery":"null"
+		},
+		{
+		  "id": 59,
+		  "category":"Unik",
+		  "title":"Yach Deluxe by Tatui",
+		  "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Unik1/main/Yach%20Deluxe%20by%20Tatui.jpeg",
+		  "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Unik1/raw/main/Yach%20Deluxe%20by%20Tatui.bussidmod",
+		  "link_livery":"null"
 		}
   ]
 }
