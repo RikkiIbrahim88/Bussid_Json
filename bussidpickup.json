@@ -30,258 +30,258 @@
 		{
 			"id": 1,
 			"category": "Pick Up 1",
-			"title": "Truck Canter Boss Meok Negeri Jagung by Budesign",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Boss%20Meok%20Negeri%20Jagung%20by%20Budesign.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Boss%20Meok%20Negeri%20Jagung%20by%20Budesign.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Boss%20Meok%20Negeri%20Jagung%20by%20Budesign.png"
+			"title": "L300 Kosongan Ori",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/L300%20Kosongan%20Ori.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/L300%20Kosongan%20Ori.bussidmod",
+			"link_livery": "null"
 		},
 		{
 			"id": 2,
 			"category": "Pick Up 1",
-			"title": "Truck Canter Custom 11 Terpal Krodong by Budesign",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Custom%2011%20Terpal%20Krodong%20by%20Budesign.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Custom%2011%20Terpal%20Krodong%20by%20Budesign.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Custom%2011%20Terpal%20Krodong%20by%20Budesign.png"
+			"title": "L300 Muatan Beras",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/L300%20Muatan%20Beras.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/L300%20Muatan%20Beras.bussidvehicle",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/L300%20Muatan%20Beras.png"
 		},
 		{
 			"id": 3,
 			"category": "Pick Up 1",
-			"title": "Truck Canter Custom 11 Terpal Segitiga by Budesign",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Custom%2011%20Terpal%20Segitiga%20by%20Budesign.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Custom%2011%20Terpal%20Segitiga%20by%20Budesign.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Custom%2011%20Terpal%20Segitiga%20by%20Budesign.png"
+			"title": "L300 Muatan Drum",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/L300%20Muatan%20Drum.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/L300%20Muatan%20Drum.bussidvehicle",
+			"link_livery": "null"
 		},
 		{
 			"id": 4,
 			"category": "Pick Up 1",
-			"title": "Truck Canter Custom 12 by Budesign",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Custom%2012%20by%20Budesign.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Custom%2012%20by%20Budesign.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Custom%2012%20by%20Budesign.png"
+			"title": "L300 Muatan Gas LPG",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/L300%20Muatan%20Gas%20LPG.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/L300%20Muatan%20Gas%20LPG.bussidmod",
+			"link_livery": "null"
 		},
 		{
 			"id": 5,
 			"category": "Pick Up 1",
-			"title": "Truck Canter Custom 13 Rak Stainless by Budesign",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Custom%2013%20Rak%20Stainless%20by%20Budesign.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Custom%2013%20Rak%20Stainless%20by%20Budesign.bussidmod",
+			"title": "L300 Muatan Grobak Bakso",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/L300%20Muatan%20Grobak%20Bakso.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/L300%20Muatan%20Grobak%20Bakso.bussidvehicle",
 			"link_livery": "null"
 		},
 		{
 			"id": 6,
-			"category": "Pick Up 2",
-			"title": "Truck Canter Custom 13 Topi by Budesign",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Custom%2013%20Topi%20by%20%20Budesign.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Custom%2013%20Topi%20by%20%20Budesign.bussidmod",
+			"category": "Pick Up 1",
+			"title": "L300 Muatan Jeruk",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/L300%20Muatan%20Jeruk.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/L300%20Muatan%20Jeruk.bussidmod",
 			"link_livery": "null"
 		},
 		{
 			"id": 7,
-			"category": "Pick Up 2",
-			"title": "Truck Canter HDL Zivanez Team by Budesign",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20HDL%20Zivanez%20Team%20by%20Budesign.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20HDL%20Zivanez%20Team%20by%20Budesign.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20HDL%20Zivanez%20Team%20by%20Budesign.png"
+			"category": "Pick Up 1",
+			"title": "L300 Pick Up Classic",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/L300%20Pick%20Up%20Classic.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/L300%20Pick%20Up%20Classic.bussidmod",
+			"link_livery": "null"
 		},
 		{
 			"id": 8,
-			"category": "Pick Up 2",
-			"title": "Truck Canter Herex SL Jaya Standar by Budesign",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Herex%20SL%20Jaya%20Standar%20by%20Budesign.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Herex%20SL%20Jaya%20Standar%20by%20Budesign.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Herex%20SL%20Jaya%20Standar%20by%20Budesign.png"
+			"category": "Pick Up 1",
+			"title": "L300 Rotary Muatan Super Bike",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/L300%20Rotary%20Muatan%20Super%20Bike.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/L300%20Rotary%20Muatan%20Super%20Bike.bussidmod",
+			"link_livery": "null"
 		},
 		{
 			"id": 9,
 			"category": "Pick Up 2",
-			"title": "Truck Canter Herex Stainless by Budesign",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Herex%20Stainless%20by%20Budesign.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Herex%20Stainless%20by%20Budesign.bussidmod",
+			"title": "L300 Sapek Drag Racing",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/L300%20Sapek%20Drag%20Racing.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/L300%20Sapek%20Drag%20Racing.bussidmod",
 			"link_livery": "null"
 		},
 		{
 			"id": 10,
 			"category": "Pick Up 2",
-			"title": "Truck Canter My Friend BKJ Suspensi Standar by Budesign",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20My%20Friend%20BKJ%20Suspensi%20Standar%20by%20Budesign.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20My%20Friend%20BKJ%20Suspensi%20Standar%20by%20Budesign.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20My%20Friend%20BKJ%20Suspensi%20Standar%20by%20Budesign.png"
+			"title": "Mobil Pick Up Bekas",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Mobil%20Pick%20Up%20Bekas.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/Mobil%20Pick%20Up%20Bekas.bussidvehicle",
+			"link_livery": "null"
 		},
 		{
 			"id": 11,
-			"category": "Pick Up 3",
-			"title": "Truck Canter Public Figure Biru by Budesign",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Public%20Figure%20Biru%20by%20Budesign.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Public%20Figure%20Biru%20by%20Budesign.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Public%20Figure%20Biru%20by%20Budesign.png"
+			"category": "Pick Up 2",
+			"title": "Mod Bussid Pickup L300 Elegan",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Mod%20Bussid%20Pickup%20L300%20Elegan.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/Mod%20Bussid%20Pickup%20L300%20Elegan.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Mod%20Bussid%20Pickup%20L300%20Elegan.png"
 		},
 		{
 			"id": 12,
-			"category": "Pick Up 3",
-			"title": "Truck Canter SRX by Budesign",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20SRX%20by%20Budesign.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20SRX%20by%20Budesign.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20SRX%20by%20Budesign.png"
+			"category": "Pick Up 2",
+			"title": "Mod Bussid Pickup L300 Muatan Berat",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Mod%20Bussid%20Pickup%20L300%20Muatan%20Berat.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/Mod%20Bussid%20Pickup%20L300%20Muatan%20Berat.bussidmod",
+			"link_livery": "null"
 		},
 		{
 			"id": 13,
-			"category": "Pick Up 3",
-			"title": "Truck Canter Sanjaya by Budesign",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Sanjaya%20by%20Budesign.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Sanjaya%20by%20Budesign.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Sanjaya%20by%20Budesign.png"
+			"category": "Pick Up 2",
+			"title": "Pick Up Bedug",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pick%20Up%20Bedug.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/Pick%20Up%20Bedug.bussidvehicle",
+			"link_livery": "null"
 		},
 		{
 			"id": 14,
-			"category": "Pick Up 3",
-			"title": "Truck Canter Sinden Gosip",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Sinden%20Gosip.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Sinden%20Gosip.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Sinden%20Gosip.png"
+			"category": "Pick Up 2",
+			"title": "Pick Up Biru Stabilo",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pick%20Up%20Biru%20Stabilo.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/Pick%20Up%20Biru%20Stabilo.bussidmod",
+			"link_livery": "null"
 		},
 		{
 			"id": 15,
-			"category": "Pick Up 3",
-			"title": "Truck Canter Tangki by Budesign",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Tangki%20by%20Budesign.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Tangki%20by%20Budesign.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Tangki%20by%20Budesign.png"
+			"category": "Pick Up 2",
+			"title": "Pick Up Box Full Modif",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pick%20Up%20Box%20Full%20Modif.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/Pick%20Up%20Box%20Full%20Modif.bussidmod",
+			"link_livery": "null"
 		},
 		{
 			"id": 16,
-			"category": "Pick Up 4",
-			"title": "Truck Canter Trondol Terpal Kotak by Budesign",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Trondol%20Terpal%20Kotak%20by%20Budesign.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Trondol%20Terpal%20Kotak%20by%20Budesign.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Trondol%20Terpal%20Kotak%20by%20Budesign.png"
+			"category": "Pick Up 2",
+			"title": "Pick Up Canter",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pick%20Up%20Canter.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/Pick%20Up%20Canter.bussidmod",
+			"link_livery": "null"
 		},
 		{
 			"id": 17,
-			"category": "Pick Up 4",
-			"title": "Truck Canter Trondol Terpal Segitiga by Budesign",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Trondol%20Terpal%20Segitiga%20by%20Budesign.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Trondol%20Terpal%20Segitiga%20by%20Budesign.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Trondol%20Terpal%20Segitiga%20by%20Budesign.png"
+			"category": "Pick Up 3",
+			"title": "Pick Up Full Modif Racing Kuning",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pick%20Up%20Full%20Modif%20Racing%20Kuning.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/Pick%20Up%20Full%20Modif%20Racing%20Kuning.bussidvehicle",
+			"link_livery": "null"
 		},
 		{
 			"id": 18,
-			"category": "Pick Up 4",
-			"title": "Truck My Friend BKJ Kontes by Budesign",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20My%20Friend%20BKJ%20Kontes%20by%20Budesign.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20My%20Friend%20BKJ%20Kontes%20by%20Budesign.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20My%20Friend%20BKJ%20Kontes%20by%20Budesign.png"
+			"category": "Pick Up 3",
+			"title": "Pick Up Mbois",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pick%20Up%20Mbois.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/Pick%20Up%20Mbois.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pick%20Up%20Mbois.png"
 		},
 		{
 			"id": 19,
-			"category": "Pick Up 4",
-			"title": "Truck Canter Ayam Custom by Budesign",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Ayam%20Custom%20by%20Budesign.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Ayam%20Custom%20by%20Budesign.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Ayam%20Custom%20by%20Budesign.png"
+			"category": "Pick Up 3",
+			"title": "Pick Up Racing Ceper Full Anim",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pick%20Up%20Racing%20Ceper%20Full%20Anim.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/Pick%20Up%20Racing%20Ceper%20Full%20Anim.bussidmod",
+			"link_livery": "null"
 		},
 		{
 			"id": 20,
-			"category": "Pick Up 4",
-			"title": "Truck Canter Box by Budesign",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Box%20by%20Budesign.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter1/raw/main/Truck%20Canter%20Box%20by%20Budesign.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter1/main/Truck%20Canter%20Box%20by%20Budesign.png"
+			"category": "Pick Up 3",
+			"title": "Pick Up Simpel",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pick%20Up%20Simpel.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/Pick%20Up%20Simpel.bussidmod",
+			"link_livery": "null"
 		},
 		{
 			"id": 21,
-			"category": "Map",
-			"title": "MOD MAP KOTA MATI ALIYAN GMP",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/MOD%20MAP%20KOTA%20MATI%20BUSSID%20ALIYAN%20GMP.webp",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/MOD%20MAP%20KOTA%20MATI%20ALIYAN%20GMP.bussidmod",
+			"category": "Pick Up 3",
+			"title": "Pick Up Tahu Bulat",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pick%20Up%20Tahu%20Bulat.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/Pick%20Up%20Tahu%20Bulat.bussidvehicle",
 			"link_livery": "null"
 		},
 		{
 			"id": 22,
-			"category": "Map",
-			"title": "Map Bukit Bintang by Amdroid 93 Channel",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Map%20Bukit%20Bintang%20by%20Amdroid%2093%20Channel.webp",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Bukit%20Bintang%20by%20Amdroid%2093%20Channel.bussidmod",
+			"category": "Pick Up 3",
+			"title": "Pickup Double Bamper",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pickup%20Double%20Bamper.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/Pickup%20Double%20Bamper.bussidmod",
 			"link_livery": "null"
 		},
 		{
 			"id": 23,
-			"category": "Map",
-			"title": "Map Ekstrim v3 by Aliyan GMP",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Map%20Ekstrim%20v3%20by%20Aliyan%20GMP.webp",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Ekstrim%20v3%20by%20Aliyan%20GMP.bussidmod",
+			"category": "Pick Up 3",
+			"title": "Pickup Full Modif Sound Sistem",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pickup%20Full%20Modif%20Sound%20Sistem.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/Pickup%20Full%20Modif%20Sound%20Sistem.bussidvehicle",
 			"link_livery": "null"
 		},
 		{
 			"id": 24,
-			"category": "Map",
-			"title": "Map Jalur Sibea bea Aliyan-GMP",
-			"image": "https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Jalur%20Sibea%20bea%20Aliyan-GMP.webp",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Jalur%20Sibea%20bea%20Aliyan-GMP.bussidmod",
+			"category": "Pick Up 3",
+			"title": "Pickup Granmax LPG",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pickup%20Granmax%20LPG.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/Pickup%20Granmax%20LPG.bussidvehicle",
 			"link_livery": "null"
 		},
 		{
 			"id": 25,
-			"category": "Map",
-			"title": "Map Kelok 18 by Aliyan GMP",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Map1/main/Map%20Kelok%2018%20by%20Aliyan%20GMP.webp",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Map1/raw/main/Map%20Kelok%2018%20by%20Aliyan%20GMP.bussidmod",
+			"category": "Pick Up 4",
+			"title": "Pickup L Tribal Semen",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pickup%20L%20Tribal%20Semen.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/Pickup%20L%20Tribal%20Semen.bussidmod",
 			"link_livery": "null"
 		},
 		{
 			"id": 26,
-			"category": "Pick Up 1",
-			"title": "Truck Cante Samudra Nusantara",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Cante%20Samudra%20Nusantara.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Cante%20Samudra%20Nusantara.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Cante%20Samudra%20Nusantara.png"
+			"category": "Pick Up 4",
+			"title": "Pickup L300 Bak Panjang",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pickup%20L300%20Bak%20Panjang.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/Pickup%20L300%20Bak%20Panjang.bussidmod",
+			"link_livery": "null"
 		},
 		{
 			"id": 27,
-			"category": "Pick Up 1",
-			"title": "Truck Canter 010 Full Box Mbois",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20010%20Full%20Box%20Mbois.jpeg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20010%20Full%20Box%20Mbois.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20010%20Full%20Box%20Mbois.png"
+			"category": "Pick Up 4",
+			"title": "Pickup L300 Disinfektan",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pickup%20L300%20Disinfektan.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/Pickup%20L300%20Disinfektan.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pickup%20L300%20Disinfektan.png"
 		},
 		{
 			"id": 28,
-			"category": "Pick Up 1",
-			"title": "Truck Canter Ayam Bodykit Samudra Nusantara",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Ayam%20Bodykit%20Samudra%20Nusantara.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20Ayam%20Bodykit%20Samudra%20Nusantara.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Ayam%20Bodykit%20Samudra%20Nusantara.png"
+			"category": "Pick Up 4",
+			"title": "Pickup L300 Full Modif Extreme Roda 6",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pickup%20L300%20Full%20Modif%20Extreme%20Roda%206.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/Pickup%20L300%20Full%20Modif%20Extreme%20Roda%206.bussidvehicle",
+			"link_livery": "null"
 		},
 		{
 			"id": 29,
-			"category": "Pick Up 1",
-			"title": "Truck Canter Ayam Immanuel",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Ayam%20Immanuel.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20Ayam%20Immanuel.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Ayam%20Immanuel.png"
+			"category": "Pick Up 4",
+			"title": "Pickup L300 Muatan Bahan Bangunan",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pickup%20L300%20Muatan%20Bahan%20Bangunan.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/Pickup%20L300%20Muatan%20Bahan%20Bangunan.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pickup%20L300%20Muatan%20Bahan%20Bangunan.png"
 		},
 		{
 			"id": 30,
-			"category": "Pick Up 1",
-			"title": "Truck Canter Black Team Fauzi Ardant by Budesign",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Black%20Team%20Fauzi%20Ardant%20by%20Budesign.jpg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20Black%20Team%20Fauzi%20Ardant%20by%20Budesign.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Black%20Team%20Fauzi%20Ardant%20by%20Budesign.png"
+			"category": "Pick Up 4",
+			"title": "Pickup L300 Muatan Kayu",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pickup%20L300%20Muatan%20Kayu.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/Pickup%20L300%20Muatan%20Kayu.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pickup%20L300%20Muatan%20Kayu.png"
 		},
 		{
 			"id": 31,
-			"category": "Pick Up 2",
-			"title": "Truck Canter Box Kardus Balap",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Box%20Kardus%20Balap.jpeg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20Box%20Kardus%20Balap.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Box%20Kardus%20Balap.png"
+			"category": "Pick Up 4",
+			"title": "Pickup L300 Rotary Gayor",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pickup%20L300%20Rotary%20Gayor.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/Pickup%20L300%20Rotary%20Gayor.bussidmod",
+			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/Pickup%20L300%20Rotary%20Gayor.png"
 		},
 		{
 			"id": 32,
 			"category": "Pick Up 2",
-			"title": "Truck Canter Box New Tam Cargo",
-			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Box%20New%20Tam%20Cargo.jpeg",
-			"link_mods": "https://github.com/RikkiIbrahim88/Bussid_Truck_Canter2/raw/main/Truck%20Canter%20Box%20New%20Tam%20Cargo.bussidmod",
-			"link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Truck_Canter2/main/Truck%20Canter%20Box%20New%20Tam%20Cargo.png"
+			"title": "l300 kelebihan muatan",
+			"image": "https://raw.githubusercontent.com/RikkiIbrahim88/pickup1/main/l300%20kelebihan%20muatan.jpg",
+			"link_mods": "https://github.com/RikkiIbrahim88/pickup1/raw/main/l300%20kelebihan%20muatan.bussidmod",
+			"link_livery": "null"
 		},
 		{
 			"id": 33,
